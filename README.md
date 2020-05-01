@@ -211,7 +211,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Google Finance](https://www.google.com/finance)
 * [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0)
 * [NASDAQ](https://data.nasdaq.com/)
-* [NYSE Market Data](ftp://ftp.nyxdata.com/)
+* NYSE Market Data ftp://ftp.nyxdata.com/
 * [OANDA](http://www.oanda.com/)
 * [OSU Financial data](http://fisher.osu.edu/fin/fdf/osudata.htm)
 * [Quandl](https://www.quandl.com/)
