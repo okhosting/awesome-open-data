@@ -32,7 +32,6 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [MIT Cancer Genomics Data](http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 * [NCBI - The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information](https://www.ncbi.nlm.nih.gov/)
 * [NCI Genomic Data Commons - The GDC Data Portal is a robust data-driven](https://gdc.cancer.gov/access-data/gdc-data-portal)
-* [NIH Microarray data](ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/)
 * [OpenSNP genotypes data - openSNP allows customers of direct-to-customer](https://opensnp.org/)
 * [Pathguid - Protein-Protein Interactions Catalog](http://www.pathguide.org/)
 * [Protein Data Bank - This resource is powered by the Protein Data Bank](http://www.rcsb.org/)
