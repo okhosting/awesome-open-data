@@ -148,6 +148,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [TerraNubis – The new Open Seismic Repository, includes the classic F3 and Penobscot seismic volumes](https://terranubis.com/datalist/free/)
 * [awesome-satellite-imagery-datasets - List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 * [Awesome Remote Sensing Change Detection - List of datasets, codes, papers, and contests related to remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
+* [Earth Online - Earth Observation information discovery platform](https://earth.esa.int/eogateway/)
 
 ### Economics
 * [American Economic Association (AEA)](https://www.aeaweb.org/resources/data)
@@ -175,6 +176,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
 * [New York State Education Department Data - The New York State Education](https://data.nysed.gov/downloads.php)
 * [Student Data from Free Code Camp](https://github.com/freeCodeCamp/open-data)
+* [Stanford Open Data Portal](https://opendata.stanforddaily.com/#/)
 
 ### Energy
 * [AMPds - The Almanac of Minutely Power dataset](http://ampds.org/)
@@ -303,7 +305,9 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [London, ON, Canada](http://www.london.ca/city-hall/open-data/Pages/default.aspx)
 * [Los Angeles Open Data](https://data.lacity.org/)
 * [Luxembourg - Luxembourgish Open Data Portal](https://data.public.lu/en/)
+* [MalaysiaFph](http://www.data.gov.my/data/ms_MY/dataset)
 * [MassGIS, Massachusetts, U.S.](http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/)
+* [Melbourne, Australia - City of Melbourne Open Data](https://data.melbourne.vic.gov.au/)
 * [Metropolitain Transportation Commission (MTC), California, US](http://mtc.ca.gov/tools-resources/data-tools/open-data-library)
 * [Mexico](https://datos.gob.mx/busca/dataset)
 * [Missisauga, ON, Canada](http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue)
@@ -324,7 +328,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Oregon](https://data.oregon.gov/)
 * [Ottawa, ON, Canada](http://data.ottawa.ca/en/)
 * [Palo Alto, California, US](http://data.cityofpaloalto.org/home)
-* [OpenDataPhilly - OpenDataPhilly is a catalog of open data in the](https://www.opendataphilly.org/)
+* [Philadelphia, US - OpenDataPhilly is a catalog of open data in the](https://www.opendataphilly.org/)
 * [Portland, Oregon](https://www.portlandoregon.gov/28130)
 * [Portugal - Pordata organization](http://www.pordata.pt/en/Home)
 * [Puerto Rico Government](https://data.pr.gov//)
@@ -342,6 +346,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Saskatchewan, Province of Canada](http://opendatask.ca/data/)
 * [Seattle](https://data.seattle.gov/)
 * [Singapore Government Data](https://data.gov.sg/)
+* [Scotland - The National Library of Scotland](https://www.nls.uk/about-us/open-data)
 * [South Africa Trade Statistics](http://www.econostatistics.co.za/)
 * [South Africa](http://www.statssa.gov.za/)
 * [State of Utah, US](https://opendata.utah.gov/)
@@ -399,6 +404,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [World Stress Map – A global compilation of information on the crustal present-day stress field](http://www.world-stress-map.org/)
 * [openFDA - a research project to provide open APIs, raw data downloads, documentation and examples, and a developer community for an important collection of FDA public datasets](https://github.com/FDA/openfda)
 * [Kushy Cannabis Dataset - a collection of tabular data from different sectors of the industry, from strains to products to lab results](https://github.com/kushyapp/cannabis-dataset)
+* [Substance Abuse and Mental Health Services Administration](https://www.samhsa.gov/data/)
+* [HealthData.gov](https://healthdata.gov/)
 
 ### ImageProcessing
 * [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html)
@@ -435,6 +442,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Open Images Dataset - a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories](https://github.com/cvdfoundation/open-images-dataset)
 * [ocr-open-dataset - list all open dataset about ocr](https://github.com/xylcbd/ocr-open-dataset)
 * [The European Monitoring Centre for Drugs and Drug Addiction](http://www.emcdda.europa.eu/)
+* [FACE RECOGNITION HOMEPAGE](https://www.face-rec.org/databases/)
 
 ### MachineLearning
 * [All-Age-Faces Dataset - Contains 13'322 Asian face images distributed](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
@@ -524,7 +532,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [NeuroMorpho - NeuroMorpho.Org is a centrally curated inventory of](http://neuromorpho.org/)
 * [Neuroelectro](http://neuroelectro.org/)
 * [OASIS](http://www.oasis-brains.org/)
-* [OpenNEURO](https://openneuro.org/public/datasets)
+* [OpenNEURO - A free and open platform for sharing MRI, MEG, EEG, iEEG, and ECoG data](https://openneuro.org/public/datasets)
 * [OpenfMRI](https://openfmri.org/)
 * [Study Forrest](http://studyforrest.org)
 
@@ -628,6 +636,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Zenodo - An open dependable home for the long-tail of science](https://zenodo.org/collection/datasets)
 * [Dryad - a curated resource that makes research data discoverable, freely reusable, and citable. Dryad provides a general-purpose home for a wide diversity of data types](https://datadryad.org/search)
 * [OSF - OSF is a free, open platform to support your research and enable collaboration](https://osf.io/)
+* [Statcrunch - Access tens of thousands of datasets, perform complex analyses, and generate compelling reports](https://www.statcrunch.com/datasets/shared)
+* [TensorFlow Datasets - a collection of ready-to-use datasets](https://www.tensorflow.org/datasets)
 
 ### SocialNetworks
 * [72 hours #gamergate Twitter Scrape](http://waxy.org/random/misc/gamergate_tweets.csv)
@@ -778,3 +788,6 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [RS.io: 100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
 * [StaTrek: Leveraging open data to understand urban lives](http://caesar0301.github.io/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/)
 * [Opendata resources in Russian](https://github.com/infoculture/awesome-opendata-rus)
+* [Links to awesome open datasets](https://github.com/betterenvi/open-dataset)
+* [awesome-opendata - A curated list of awesome Open Data resources, tools and other awesomeness](https://github.com/DigitalCommonsLab/awesome-opendata)
+* [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.i-policy.org/2018/04/25-open-datasets-for-deep-learning-every-data-scientist-must-work-with.html)
