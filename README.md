@@ -56,9 +56,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [MIT Cancer Genomics Data](http://www.broadinstitute.org/cgi-bin/cancer/datasets.cgi)
 
-* [NCBI Proteins](http://www.ncbi.nlm.nih.gov/guide/proteins/#databases)
-
-* [NCBI Taxonomy - The NCBI Taxonomy database is a curated set of names and](http://www.ncbi.nlm.nih.gov/taxonomy)
+* [NCBI - The National Center for Biotechnology Information advances science and health by providing access to biomedical and genomic information](https://www.ncbi.nlm.nih.gov/)
 
 * [NCI Genomic Data Commons - The GDC Data Portal is a robust data-driven](https://gdc.cancer.gov/access-data/gdc-data-portal)
 
@@ -216,6 +214,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [Open-source datasets behind the graphics, interactives, and analyses at Google Trends](https://github.com/GoogleTrends/data)
 
+* [Awesome Datasets About Datacenter](https://github.com/bean-zhang/awesome-datasets-about-datacenter)
+
 ### DataChallenges
 
 * [Bruteforce Database](https://github.com/duyetdev/bruteforce-database)
@@ -321,6 +321,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UN Commodity Trade Statistics](http://comtrade.un.org/db/)
 
 * [UN Human Development Reports](http://hdr.undp.org/en)
+
+* [SIMBAD Astronomical Database - provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system](http://simbad.u-strasbg.fr/simbad/)
 
 ### Education
 
@@ -462,6 +464,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [Quantarctica – User-configurable QGIS basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data](https://www.npolar.no/quantarctica/)
 
+* [Awesome Open City Data - A curated list of open data sources to analyze and compare cities in a holistic way à la data science and empower citizens](https://github.com/TStesco/awesome-city-data)
+
 ### Government
 
 * [Alberta, Province of Canada](http://open.alberta.ca)
@@ -558,7 +562,11 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati](https://www.dati.gov.it/)
 
+* [Italy - Awesome Italian Public Datasets](https://github.com/italia/awesome-italian-public-datasets)
+
 * [Japan](http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do)
+
+* [Awesome Open Data Latam - Lista con informacion sobre datasets, organizaciones, eventos y herramientas relacionadas con Open Data en Latinoamerica](https://github.com/ChristosChristofidis/awesome-opendata-latam)
 
 * [Laval, QC, Canada](http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx)
 
@@ -660,7 +668,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [Taiwan gov](https://data.gov.tw/)
 
-* [Taiwan](http://data.gov.tw/)
+* [Taiwan - awesome-opendata-taiwan-gov](https://github.com/onlinemad/awesome-opendata-taiwan-gov)
 
 * [Tel-Aviv Open Data](https://opendata.tel-aviv.gov.il/en/Pages/home.aspx)
 
@@ -714,6 +722,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [U.S. Congressional Research Service (CRS) Reports](https://www.everycrsreport.com/)
 
+* [Waterloo, CA - Datasets powering the Open Data API](https://github.com/uWaterloo/Datasets)
+
 ### Healthcare
 
 * [AWS COVID-19 Datasets - We're working with organizations who make](https://dj2taa9i652rf.cloudfront.net/)
@@ -755,6 +765,10 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Informatics for Integrating Biology & the Bedside](https://www.i2b2.org/NLP/DataSets/Main.php)
 
 * [World Stress Map – A global compilation of information on the crustal present-day stress field](http://www.world-stress-map.org/)
+
+* [openFDA - a research project to provide open APIs, raw data downloads, documentation and examples, and a developer community for an important collection of FDA public datasets](https://github.com/FDA/openfda)
+
+* [Kushy Cannabis Dataset - a collection of tabular data from different sectors of the industry, from strains to products to lab results](https://github.com/kushyapp/cannabis-dataset)
 
 ### ImageProcessing
 
@@ -820,6 +834,12 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [YouTube Faces Database](http://www.cs.tau.ac.il/~wolf/ytfaces/)
 
+* [Open Images Dataset - a dataset of ~9 million URLs to images that have been annotated with labels spanning over 6000 categories](https://github.com/cvdfoundation/open-images-dataset)
+
+* [ocr-open-dataset - list all open dataset about ocr](https://github.com/xylcbd/ocr-open-dataset)
+
+* [The European Monitoring Centre for Drugs and Drug Addiction](http://www.emcdda.europa.eu/)
+
 ### MachineLearning
 
 * [All-Age-Faces Dataset - Contains 13'322 Asian face images distributed](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
@@ -865,6 +885,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Youtube 8m](https://research.google.com/youtube8m/download.html)
 
 * [eBay Online Auctions (2012)](http://www.modelingonlineauctions.com/datasets)
+
+* [Datasets opened by Lithium Technologies | Klout](https://github.com/klout/opendata)
 
 ### Museums
 
@@ -1156,7 +1178,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php)
 
-### SearchEngines
+### SearchEngines and repositories
 
 * [Academic Torrents of data sharing from UMB](http://academictorrents.com/)
 
@@ -1182,6 +1204,9 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [Zenodo - An open dependable home for the long-tail of science](https://zenodo.org/collection/datasets)
 
+* [Dryad - a curated resource that makes research data discoverable, freely reusable, and citable. Dryad provides a general-purpose home for a wide diversity of data types](https://datadryad.org/search)
+
+* [OSF - OSF is a free, open platform to support your research and enable collaboration](https://osf.io/)
 ### SocialNetworks
 
 * [72 hours #gamergate Twitter Scrape](http://waxy.org/random/misc/gamergate_tweets.csv)
@@ -1372,6 +1397,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [Tennis database of rankings, results, and stats for WTA](https://github.com/JeffSackmann/tennis_wta)
 
+* [StatsBomb Open Data - Free football data](https://github.com/statsbomb/open-data)
+
 ### TimeSeries
 
 * [3W dataset - To the best of its authors' knowledge, this is the first](https://github.com/ricardovvargas/3w_dataset)
@@ -1461,3 +1488,5 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [RS.io: 100+ Interesting Data Sets for Statistics](http://rs.io/100-interesting-data-sets-for-statistics/)
 
 * [StaTrek: Leveraging open data to understand urban lives](http://caesar0301.github.io/posts/2014/10/23/leveraging-open-data-to-understand-urban-lives/)
+
+* [Opendata resources in Russian](https://github.com/infoculture/awesome-opendata-rus)
