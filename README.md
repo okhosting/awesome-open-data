@@ -210,6 +210,8 @@
 
 * [UCSD Network Telescope, IPv4 /8 net](http://www.caida.org/projects/network_telescope/)
 
+* [Open-source datasets behind the graphics, interactives, and analyses at Google Trends](https://github.com/GoogleTrends/data)
+
 ### DataChallenges
 
 * [Bruteforce Database](https://github.com/duyetdev/bruteforce-database)
@@ -435,6 +437,10 @@
 * [World boundaries from  the U.S. Department of State](http://geonode.state.gov/layers/?limit=100&offset=0)
 
 * [World countries in multiple formats](https://github.com/mledoze/countries)
+
+* [High-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions](https://github.com/waymo-research/waymo-open-dataset)
+
+* [Poseidon NW Australia – Interpreted 3D seismic (32bit) including reports and well logs](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg)
 
 ### Government
 
@@ -1209,6 +1215,8 @@
 * [Yahoo! Graph and Social Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=g)
 
 * [Youtube Video Social Graph in 2007,2008](http://netsg.cs.sfu.ca/youtubedata/)
+
+* [Dataset of top posts from reddit.](https://github.com/umbrae/reddit-top-2.5-million)
 
 ### SocialSciences
 
