@@ -75,7 +75,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [WU Historical Weather Worldwide](https://www.wunderground.com/history/index.html)
 * [WorldClim - Global Climate Data](http://www.worldclim.org)
 
-### ComplexNetworks
+### Complex networks
 * [AMiner Citation Network Dataset](http://aminer.org/citation)
 * [CrossRef DOI URLs](https://archive.org/details/doi-urls)
 * [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
@@ -96,7 +96,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UFL sparse matrix collection](http://www.cise.ufl.edu/research/sparse/matrices/)
 * [WSU Graph Database](http://www.eecs.wsu.edu/mgd/gdb.html)
 
-### Computer Networks
+### Computer networks
 * [3.5B Web Pages from CommonCrawl 2012](http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us)
 * [53.5B Web clicks of 100K users in Indiana Univ.](http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/)
 * [CAIDA Internet Datasets](http://www.caida.org/data/overview/)
@@ -115,7 +115,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Open-source datasets behind the graphics, interactives, and analyses at Google Trends](https://github.com/GoogleTrends/data)
 * [Awesome Datasets About Datacenter](https://github.com/bean-zhang/awesome-datasets-about-datacenter)
 
-### Data Challenges
+### Data challenges
 * [Bruteforce Database](https://github.com/duyetdev/bruteforce-database)
 * [Challenges in Machine Learning](http://www.chalearn.org/)
 * [CrowdANALYTIX dataX](http://data.crowdanalytix.com)
@@ -132,7 +132,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [TunedIT - Data mining & machine learning data sets, algorithms, challenges](http://tunedit.org/challenges/)
 * [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge)
 
-### Earth Science
+### Earth science
 * [38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset)
 * [AQUASTAT - Global water resources and uses](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)
 * [BODC - marine data of ~22K vars](https://www.bodc.ac.uk/data/)
@@ -422,7 +422,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [WHO - Global Health Observatory data repository](https://apps.who.int/gho/data/node.home)
 * [UNICEF](https://data.unicef.org/)
 
-### ImageProcessing
+### Image processing
 * [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html)
 * [2GB of Photos of Cats](https://www.kaggle.com/crawford/cat-dataset/version/2)
 * [Adience Unfiltered faces for gender and age classification](http://www.openu.ac.il/home/hassner/Adience/data.html)
@@ -459,7 +459,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [The European Monitoring Centre for Drugs and Drug Addiction](http://www.emcdda.europa.eu/)
 * [FACE RECOGNITION HOMEPAGE](https://www.face-rec.org/databases/)
 
-### MachineLearning
+### Machine learning
 * [All-Age-Faces Dataset - Contains 13'322 Asian face images distributed](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
 * [Context-aware data sets from five domains](https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets)
 * [Delve Datasets for classification and regression](http://www.cs.toronto.edu/~delve/data/datasets.html)
@@ -561,7 +561,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Sloan Digital Sky Survey (SDSS) - Mapping the Universe](http://www.sdss.org/)
 * [ATLAS Open Data provides open access to proton-proton collision data at the LHC](https://atlas.cern/resources/opendata)
 
-### ProstateCancer
+### Prostate cancer
 * [EOPC-DE-Early-Onset-Prostate-Cancer-Germany - Early Onset Prostate Cancer](https://dcc.icgc.org/projects/EOPC-DE)
 * [GENIE - Data from the Genomics Evidence Neoplasia Information Exchange](https://www.synapse.org/genie)
 * [Genomic-Hallmarks-Prostate-Adenocarcinoma-CPC-GENE - Comprehensive](http://www.cbioportal.org/study?id=prad_cpcg_2017)
@@ -605,7 +605,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [SEER-YR2000_2015.CA_KY_LO_NJ_GA - The July - December 2005 diagnoses for](https://seer.cancer.gov/data/seerstat/nov2017/)
 * [TCGA-PRAD-US - TCGA Prostate Adenocarcinoma (499 samples).](http://www.cbioportal.org/study?id=prad_tcga)
 
-### Psychology+Cognition
+### Psychology and Cognition
 * [OSU Cognitive Modeling Repository Datasets](http://www.cmr.osu.edu/browse/datasets)
 
 ### PublicDomains
@@ -701,7 +701,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Dataset of top posts from reddit.](https://github.com/umbrae/reddit-top-2.5-million)
 * [fivethirtyeight.com](https://data.fivethirtyeight.com/)
 
-### SocialSciences
+### Social sciences
 * [ACLED (Armed Conflict Location & Event Data Project)](http://www.acleddata.com/)
 * [Canadian Legal Information Institute](https://www.canlii.org/en/index.php)
 * [Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc](http://www.systemicpeace.org/)
