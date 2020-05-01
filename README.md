@@ -503,7 +503,6 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [DBpedia - 4.58M things with 583M facts](http://wiki.dbpedia.org/Datasets)
 * [Flickr Personal Taxonomies](http://www.isi.edu/~lerman/downloads/flickr/flickr_taxonomies.html)
 * [Freebase of people, places, and things](http://www.freebase.com/)
-* [German Political Speeches Corpus - Collection of political speeches from <purl.org/corpus/german-speeches)
 * [Google Books Ngrams (2.2TB)](https://aws.amazon.com/datasets/google-books-ngrams/)
 * [Google MC-AFP - Generated based on the public available Gigaword dataset](https://github.com/google/mcafp)
 * [Google Web 5gram (1TB, 2006)](https://catalog.ldc.upenn.edu/LDC2006T13)
