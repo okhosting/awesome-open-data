@@ -52,8 +52,9 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UniGene](https://ftp.ncbi.nlm.nih.gov/repository/UniGene/)
 * [Universal Protein Resource (UnitProt) - The Universal Protein Resource](http://www.uniprot.org/downloads)
 * [Rfam - The Rfam database is a collection of RNA families, each](https://docs.rfam.org/en/latest/database.html)
+* [Plant databases](https://biology.stackexchange.com/questions/10162/are-there-any-open-plant-databases-database-library-collection-containing-spe)
 
-### Climate+Weather
+### Climate and Weather
 * [Actuaries Climate Index](http://actuariesclimateindex.org/data/)
 * [Australian Weather](http://www.bom.gov.au/climate/dwo/)
 * [Aviation Weather Center - Consistent, timely and accurate weather](https://aviationweather.gov/adds/dataserver)
@@ -95,7 +96,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UFL sparse matrix collection](http://www.cise.ufl.edu/research/sparse/matrices/)
 * [WSU Graph Database](http://www.eecs.wsu.edu/mgd/gdb.html)
 
-### ComputerNetworks
+### Computer Networks
 * [3.5B Web Pages from CommonCrawl 2012](http://www.bigdatanews.com/profiles/blogs/big-data-set-3-5-billion-web-pages-made-available-for-all-of-us)
 * [53.5B Web clicks of 100K users in Indiana Univ.](http://cnets.indiana.edu/groups/nan/webtraffic/click-dataset/)
 * [CAIDA Internet Datasets](http://www.caida.org/data/overview/)
@@ -114,7 +115,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Open-source datasets behind the graphics, interactives, and analyses at Google Trends](https://github.com/GoogleTrends/data)
 * [Awesome Datasets About Datacenter](https://github.com/bean-zhang/awesome-datasets-about-datacenter)
 
-### DataChallenges
+### Data Challenges
 * [Bruteforce Database](https://github.com/duyetdev/bruteforce-database)
 * [Challenges in Machine Learning](http://www.chalearn.org/)
 * [CrowdANALYTIX dataX](http://data.crowdanalytix.com)
@@ -131,7 +132,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [TunedIT - Data mining & machine learning data sets, algorithms, challenges](http://tunedit.org/challenges/)
 * [Yelp Dataset Challenge](http://www.yelp.com/dataset_challenge)
 
-### EarthScience
+### Earth Science
 * [38-Cloud (Cloud Detection) - Contains 38 Landsat 8 scene images and their](https://github.com/SorourMo/38-Cloud-A-Cloud-Segmentation-Dataset)
 * [AQUASTAT - Global water resources and uses](http://www.fao.org/nr/water/aquastat/data/query/index.html?lang=en)
 * [BODC - marine data of ~22K vars](https://www.bodc.ac.uk/data/)
@@ -149,6 +150,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [awesome-satellite-imagery-datasets - List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
 * [Awesome Remote Sensing Change Detection - List of datasets, codes, papers, and contests related to remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
 * [Earth Online - Earth Observation information discovery platform](https://earth.esa.int/eogateway/)
+* [DATA.NASA.GOV is NASA's clearinghouse site for open-data provided to the public](https://nasa.github.io/data-nasa-gov-frontpage/)
+* [Geopedia](http://portal.geopedia.world/data)
 
 ### Economics
 * [American Economic Association (AEA)](https://www.aeaweb.org/resources/data)
@@ -171,6 +174,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UN Commodity Trade Statistics](http://comtrade.un.org/db/)
 * [UN Human Development Reports](http://hdr.undp.org/en)
 * [SIMBAD Astronomical Database - provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system](http://simbad.u-strasbg.fr/simbad/)
+* [The Yelp dataset - a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes.](https://www.yelp.com/dataset)
 
 ### Education
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
@@ -249,6 +253,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Awesome Open City Data - A curated list of open data sources to analyze and compare cities in a holistic way à la data science and empower citizens](https://github.com/TStesco/awesome-city-data)
 
 ### Government
+* [Global Open Data Index - provides the most comprehensive snapshot available of the state of open government data publication ](https://index.okfn.org/)
 * [Alberta, Province of Canada](http://open.alberta.ca)
 * [Antwerp, Belgium](http://opendata.antwerpen.be/datasets)
 * [Argentina (non official)](http://datar.noip.me/)
@@ -260,6 +265,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Baton Rouge, LA, US](https://data.brla.gov/)
 * [Beersheba, Israel - Open Data Portal (Smart7 OpenData)](https://www.beer-sheva.muni.il/OpenData/Pages/default.aspx)
 * [Belgium](http://data.gov.be/)
+* [Boston, US](https://data.boston.gov/)
 * [Brazil](http://dados.gov.br/dataset)
 * [Buenos Aires, Argentina](http://data.buenosaires.gob.ar/)
 * [Calgary, AB, Canada](https://data.calgary.ca/)
@@ -268,12 +274,15 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Chicago](https://data.cityofchicago.org/)
 * [Chile](http://datos.gob.cl/dataset)
 * [China](http://data.stats.gov.cn/english/)
+* [Colombia](https://www.datos.gov.co/)
 * [Dallas Open Data](https://www.dallasopendata.com/)
 * [DataBC - data from the Province of British Columbia](http://www.data.gov.bc.ca/)
+* [District of Columbia, US](https://opendata.dc.gov/)
 * [Denver Open Data](http://data.denvergov.org//)
 * [Durham, NC Open Data](https://live-durhamnc.opendata.arcgis.com/)
 * [Edmonton, AB, Canada](https://data.edmonton.ca/)
 * [England LGInform](http://lginform.local.gov.uk/)
+* [European Union Open Data Portal](https://data.europa.eu/)
 * [EuroStat](http://ec.europa.eu/eurostat/data/database)
 * [EveryPolitician - Ongoing project collating and sharing data on every](http://everypolitician.org/)
 * [Federal Committee on Statistical Methodology (FCSM) (formerly FedStats)](https://nces.ed.gov/FCSM/index.asp)
@@ -318,7 +327,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [NYC Open Data](https://opendata.cityofnewyork.us/)
 * [NYC betanyc](http://betanyc.us/)
 * [Netherlands](https://data.overheid.nl/)
-* [New Zealand](http://www.stats.govt.nz/browse_for_stats.aspx)
+* [New Zealand Stats](http://www.stats.govt.nz/browse_for_stats.aspx)
+* [New Zealand Data](https://www.data.govt.nz/)
 * [OECD](https://data.oecd.org/)
 * [Oakland, California, US](https://data.oaklandnet.com/)
 * [Oklahoma](https://data.ok.gov/)
@@ -334,6 +344,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Puerto Rico Government](https://data.pr.gov//)
 * [Quebec City, QC, Canada](http://donnees.ville.quebec.qc.ca/)
 * [Quebec Province of Canada](https://www.donneesquebec.ca/en/)
+* [Queensland, Australia](https://www.data.qld.gov.au/dataset)
 * [Regina SK, Canada](http://open.regina.ca/)
 * [Rio de Janeiro, Brazil](http://www.data.rio/)
 * [Romania](http://data.gov.ro/)
@@ -349,6 +360,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Scotland - The National Library of Scotland](https://www.nls.uk/about-us/open-data)
 * [South Africa Trade Statistics](http://www.econostatistics.co.za/)
 * [South Africa](http://www.statssa.gov.za/)
+* [Spain](https://datos.gob.es/)
 * [State of Utah, US](https://opendata.utah.gov/)
 * [Switzerland](http://www.opendata.admin.ch/)
 * [Taiwan gov](https://data.gov.tw/)
@@ -358,6 +370,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [The World Bank](https://openknowledge.worldbank.org/handle/10986/2124)
 * [Toronto, ON, Canada](https://portal0.cf.opendata.inter.sandbox-toronto.ca/)
 * [Tunisia](http://www.data.gov.tn/)
+* [Uniter Arab Emirates](https://data.bayanat.ae/en_GB/dataset)
 * [U.K. Government Data](https://data.gov.uk)
 * [U.S. American Community Survey](https://www.census.gov/programs-surveys/acs/)
 * [U.S. CDC Public Health datasets](https://www.cdc.gov/nchs/data_access/ftp_data.htm)
@@ -406,6 +419,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Kushy Cannabis Dataset - a collection of tabular data from different sectors of the industry, from strains to products to lab results](https://github.com/kushyapp/cannabis-dataset)
 * [Substance Abuse and Mental Health Services Administration](https://www.samhsa.gov/data/)
 * [HealthData.gov](https://healthdata.gov/)
+* [WHO - Global Health Observatory data repository](https://apps.who.int/gho/data/node.home)
+* [UNICEF](https://data.unicef.org/)
 
 ### ImageProcessing
 * [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html)
@@ -478,7 +493,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Tate Collection metadata](https://github.com/tategallery/collection)
 * [The Getty vocabularies](http://vocab.getty.edu)
 
-### NaturalLanguage
+### Natural language
 * [Automatic Keyphrase Extraction](https://github.com/snkim/AutomaticKeyphraseExtraction/)
 * [The Big Bad NLP Database](https://quantumstat.com/dataset/dataset.html)
 * [Blizzard Challenge Speech - The speech + text data comes from](https://www.synsig.org/index.php/Blizzard_Challenge_2018)
@@ -544,6 +559,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu/)
 * [NSSDC (NASA) data of 550 space spacecraft](http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html)
 * [Sloan Digital Sky Survey (SDSS) - Mapping the Universe](http://www.sdss.org/)
+* [ATLAS Open Data provides open access to proton-proton collision data at the LHC](https://atlas.cern/resources/opendata)
 
 ### ProstateCancer
 * [EOPC-DE-Early-Onset-Prostate-Cancer-Germany - Early Onset Prostate Cancer](https://dcc.icgc.org/projects/EOPC-DE)
@@ -621,7 +637,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Wikileaks 911 pager intercepts](https://911.wikileaks.org/files/index.html)
 * [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php)
 
-### SearchEngines and repositories
+### Search engines and repositories
 * [Academic Torrents of data sharing from UMB](http://academictorrents.com/)
 * [DataMarket (Qlik)](https://datamarket.com/data/list/?q=all)
 * [Datahub.io](https://datahub.io/dataset)
@@ -638,8 +654,23 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [OSF - OSF is a free, open platform to support your research and enable collaboration](https://osf.io/)
 * [Statcrunch - Access tens of thousands of datasets, perform complex analyses, and generate compelling reports](https://www.statcrunch.com/datasets/shared)
 * [TensorFlow Datasets - a collection of ready-to-use datasets](https://www.tensorflow.org/datasets)
+* [Mendeley](https://data.mendeley.com/)
+* [Google dataset research](https://datasetsearch.research.google.com/)
+* [Google public data](https://www.google.com/publicdata/directory)
+* [data.world is the modern catalog for data and analysis](https://data.world/)
+* [Harvard Dataverse - a repository for research data](https://dataverse.harvard.edu/)
+* [UC Irvine Machine Learning Repository](https://archive.ics.uci.edu/ml/index.php)
+* [appen - Datasets curated on the Appen platform](https://appen.com/resources/datasets/)
+* [Kaggle Datasets](https://www.kaggle.com/datasets)
+* [Registry of Open Data on AWS](https://registry.opendata.aws/)
+* [scale.com - Index of Open Datasets for Computer Vision and Natural Language Processing](https://scale.com/open-datasets)
+* [Dataverse - Open source research data repository software](https://dataverse.org/)
+* [Open Data Kit](https://opendatakit.org/)
+* [CKAN - the world’s leading Open Source data portal platform](https://ckan.org/)
+* [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
+* [Plenar.io](http://plenar.io/)
 
-### SocialNetworks
+### Social Networks
 * [72 hours #gamergate Twitter Scrape](http://waxy.org/random/misc/gamergate_tweets.csv)
 * [Ancestry.com Forum Dataset over 10 years](http://www.cs.cmu.edu/~jelsas/data/ancestry.com/)
 * [CMU Enron Email of 150 users](http://www.cs.cmu.edu/~enron/)
@@ -668,6 +699,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Yahoo! Graph and Social Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=g)
 * [Youtube Video Social Graph in 2007,2008](http://netsg.cs.sfu.ca/youtubedata/)
 * [Dataset of top posts from reddit.](https://github.com/umbrae/reddit-top-2.5-million)
+* [fivethirtyeight.com](https://data.fivethirtyeight.com/)
 
 ### SocialSciences
 * [ACLED (Armed Conflict Location & Event Data Project)](http://www.acleddata.com/)
@@ -791,3 +823,12 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Links to awesome open datasets](https://github.com/betterenvi/open-dataset)
 * [awesome-opendata - A curated list of awesome Open Data resources, tools and other awesomeness](https://github.com/DigitalCommonsLab/awesome-opendata)
 * [25 Open Datasets for Deep Learning Every Data Scientist Must Work With](https://www.i-policy.org/2018/04/25-open-datasets-for-deep-learning-every-data-scientist-must-work-with.html)
+* [Datasets for Data Science and Machine Learning](https://elitedatascience.com/datasets)
+* [The Open Data Barometer - A global measure of how governments are publishing and using open data for accountability, innovation and social impact](https://opendatabarometer.org/?_year=2017&indicator=ODB)
+* [11 websites to find free, interesting datasets](https://www.interviewqs.com/blog/free_online_data_sets)
+* [DeepDive Open Datasets](http://deepdive.stanford.edu/opendata/)
+* [Big Data: 33 Brilliant And Free Data Sources Anyone Can Use](https://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#515cc707b54d)
+* [13 Open Source Datasets for Machine Learning](https://www.samasource.com/blog/11-open-source-datasets-for-machine-learning)
+* [The Best Public Datasets for Machine Learning and Data Science](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/)
+* [Open Datasets](https://pathmind.com/wiki/open-datasets)
+* [Top 10 Open Dataset Resources on Github](https://www.kdnuggets.com/2016/05/top-10-datasets-github.html)
