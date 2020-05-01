@@ -1,3 +1,7 @@
+# Awesome Open Data
+List of free and open datasets for machine learning, arranged by topic. 
+Lots of entries taken from https://github.com/awesomedata/awesome-public-datasets.
+
 ### Agriculture
 
 * [Hyperspectral benchmark dataset on soil moisture - This dataset was](https://doi.org/10.5281/zenodo.1227837)
