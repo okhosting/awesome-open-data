@@ -274,6 +274,14 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [USGS Earthquake Archives](http://earthquake.usgs.gov/earthquakes/search/)
 
+* [ICGEM – Hosts gravity field spherical harmonic models and provides a webservice for generating grids of gravity functionals](http://icgem.gfz-potsdam.de/home)
+
+* [TerraNubis – The new Open Seismic Repository, includes the classic F3 and Penobscot seismic volumes](https://terranubis.com/datalist/free/)
+
+* [awesome-satellite-imagery-datasets - List of satellite image training datasets with annotations for computer vision and deep learning](https://github.com/chrieke/awesome-satellite-imagery-datasets)
+
+* [Awesome Remote Sensing Change Detection - List of datasets, codes, papers, and contests related to remote sensing change detection](https://github.com/wenhwu/awesome-remote-sensing-change-detection)
+
 ### Economics
 
 * [American Economic Association (AEA)](https://www.aeaweb.org/resources/data)
@@ -362,6 +370,12 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [iAWE](http://iawe.github.io/)
 
+* [NOPIMS – Open petroleum geoscience data from Western Australia made available by the Australian Government](https://nopims.dmp.wa.gov.au/nopims/)
+
+* [UK National Data Repository – Open petroleum geoscience data from the UK Government (free registration required)](https://ndr.ogauthority.co.uk/dp/controller/PLEASE_LOGIN_PAGE)
+
+* [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada](https://ags.aer.ca/publications/SPE_006.html)
+
 ### Finance
 
 * [Blockmodo Coin Registry - A registry of JSON formatted information files](https://github.com/Blockmodo/coin_registry)
@@ -445,6 +459,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [High-resolution sensor data collected by Waymo self-driving cars in a wide variety of conditions](https://github.com/waymo-research/waymo-open-dataset)
 
 * [Poseidon NW Australia – Interpreted 3D seismic (32bit) including reports and well logs](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg)
+
+* [Quantarctica – User-configurable QGIS basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data](https://www.npolar.no/quantarctica/)
 
 ### Government
 
@@ -737,6 +753,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [World Health Organization Global Health Observatory](http://www.who.int/gho/en/)
 
 * [Informatics for Integrating Biology & the Bedside](https://www.i2b2.org/NLP/DataSets/Main.php)
+
+* [World Stress Map – A global compilation of information on the crustal present-day stress field](http://www.world-stress-map.org/)
 
 ### ImageProcessing
 
