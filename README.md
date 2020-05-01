@@ -748,7 +748,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 ### Software
 * [FLOSSmole data about free, libre, and open source software development](http://flossdata.syr.edu/data/)
-* [GHTorrent - Scalable, queriable, offline mirror of data offered through <ghtorrent.org)
+* [GHTorrent - Scalable, queriable, offline mirror of data offered through](https://ghtorrent.org/)
 * [Libraries.io Open Source Repository and Dependency Metadata](https://doi.org/10.5281/zenodo.1068916)
 * [Public Git Archive - a Big Code dataset for all – dataset of 182,014 top-](https://github.com/src-d/datasets/tree/master/PublicGitArchive)
 * [Code duplicates - 2k Java file and 600 Java function pairs labeled as](https://github.com/src-d/datasets/tree/master/Duplicates)
