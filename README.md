@@ -62,7 +62,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [NCI Genomic Data Commons - The GDC Data Portal is a robust data-driven](https://gdc.cancer.gov/access-data/gdc-data-portal)
 
-* [NIH Microarray data <ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/)
+* [NIH Microarray data](ftp://ftp.ncbi.nih.gov/pub/geo/DATA/supplementary/series/GSE6532/)
 
 * [OpenSNP genotypes data - openSNP allows customers of direct-to-customer](https://opensnp.org/)
 
@@ -374,7 +374,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [NASDAQ](https://data.nasdaq.com/)
 
-* [NYSE Market Data <ftp://ftp.nyxdata.com/)
+* [NYSE Market Data](ftp://ftp.nyxdata.com/)
 
 * [OANDA](http://www.oanda.com/)
 
@@ -1420,7 +1420,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 * [U.S. Freight Analysis Framework since 2007](http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm)
 
-* [U.S. National Highway Traffic Safety Administration - Fatalities since <ftp://nhtsa.gov/FARS/)
+* [U.S. National Highway Traffic Safety Administration - Fatalities since](ftp://nhtsa.gov/FARS/)
 
 ### eSports
 
