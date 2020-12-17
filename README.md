@@ -830,3 +830,6 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [The Best Public Datasets for Machine Learning and Data Science](https://towardsai.net/p/machine-learning/best-free-datasets-for-machine-learning-and-data-science/stanfordai/3451/)
 * [Open Datasets](https://pathmind.com/wiki/open-datasets)
 * [Top 10 Open Dataset Resources on Github](https://www.kdnuggets.com/2016/05/top-10-datasets-github.html)
+
+## Contributions welcome
+If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
