@@ -636,6 +636,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php)
 
 ### Search engines and repositories
+* [Shodan - the world's first search engine for Internet-connected devices.](https://www.shodan.io/)
+* [Censys - the most reputable, exhaustive, and up-to-date source of Internet scan data in the world, so you see everything.](https://censys.io/)
 * [Academic Torrents of data sharing from UMB](http://academictorrents.com/)
 * [DataMarket (Qlik)](https://datamarket.com/data/list/?q=all)
 * [Datahub.io](https://datahub.io/dataset)
