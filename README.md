@@ -3,7 +3,7 @@ List of free and open datasets for machine learning, arranged by topic.
 Lots of entries taken from https://github.com/awesomedata/awesome-public-datasets.
 
 ### Agriculture
-* [Hyperspectral benchmark dataset on soil moisture - This dataset was](https://doi.org/10.5281/zenodo.1227837)
+* [Hyperspectral benchmark dataset on soil moisture](https://doi.org/10.5281/zenodo.1227837)
 * [U.S. Department of Agriculture's Nutrient Database](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
 * [U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS](http://www.plants.usda.gov/dl_all.html)
 
