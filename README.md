@@ -669,6 +669,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [CKAN - the world’s leading Open Source data portal platform](https://ckan.org/)
 * [Open Data Monitor](https://opendatamonitor.eu/frontend/web/index.php?r=dashboard%2Findex)
 * [Plenar.io](http://plenar.io/)
+* [OSINT framework](https://osintframework.com/) OSINT framework focused on gathering information from free tools or resources. 
 
 ### Social Networks
 * [72 hours #gamergate Twitter Scrape](http://waxy.org/random/misc/gamergate_tweets.csv)
