@@ -380,6 +380,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [U.S. Food and Drug Administration (FDA)](https://open.fda.gov/index.html)
 * [U.S. National Center for Education Statistics (NCES)](http://nces.ed.gov/)
 * [U.S. Open Government](http://www.data.gov/open-gov/)
+* [U.S. National Archives and Records Administration](https://www.archives.gov/) The National Archives and Records Administration (NARA) is the nation's record keeper. Of all documents and materials created in the course of business conducted by the United States Federal government, only 1%-3% are so important for legal or historical reasons that they are kept by us forever.
 * [UK 2011 Census Open Atlas Project](https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas)
 * [U.S. Patent and Trademark Office (USPTO) Bulk Data Products](https://www.uspto.gov/learning-and-resources/bulk-data-products)
 * [Uganda Bureau of Statistics](http://www.ubos.org/unda/index.php/catalog)
@@ -462,6 +463,17 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [ocr-open-dataset - list all open dataset about ocr](https://github.com/xylcbd/ocr-open-dataset)
 * [The European Monitoring Centre for Drugs and Drug Addiction](http://www.emcdda.europa.eu/)
 * [FACE RECOGNITION HOMEPAGE](https://www.face-rec.org/databases/)
+
+### Newspapers
+* [Elephind](https://elephind.com/)The goal of Elephind.com is to make it possible to search all the world’s online historic newspapers from one place. We aren’t there yet, but we are adding more newspapers every day.
+* [Google Newspapers](https://news.google.com/newspapers)
+* [The British Newspaper Archive](https://www.britishnewspaperarchive.co.uk/) Access hundreds of historic newspapers from all over Britain and Ireland
+* [Wall Street Journal Archive](https://www.wsj.com/news/archive/years)
+* [Irish Newspaper Archives](https://www.irishnewsarchive.com/) The world’s largest and oldest online database of Irish newspapers. 
+* [Wikipedia List of online newspaper archives](https://en.wikipedia.org/wiki/Wikipedia:List_of_online_newspaper_archives) This is a list of online newspaper archives and some magazines and journals, including both free and pay wall blocked digital archives.
+* [ABC News Archive](https://www.abc.net.au/news/archive/)
+* [Guardian News & Media archive](https://www.theguardian.com/gnm-archive) The GNM archive collects and preserves original and unique documents and objects that tell the story of the Guardian and Observer, and can be visited by appointment
+* [AP Archive](https://www.ap.org/content/archive) Relive iconic headlines that have shaped our world
 
 ### Machine learning
 * [All-Age-Faces Dataset - Contains 13'322 Asian face images distributed](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
