@@ -1,5 +1,5 @@
 # Awesome Open Data
-List of free and open datasets for machine learning, arranged by topic. 
+List of free and open datasets for machine learning or data research, arranged by topic. 
 Lots of entries taken from https://github.com/awesomedata/awesome-public-datasets.
 
 ### Agriculture
@@ -420,6 +420,11 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [HealthData.gov](https://healthdata.gov/)
 * [WHO - Global Health Observatory data repository](https://apps.who.int/gho/data/node.home)
 * [UNICEF](https://data.unicef.org/)
+
+### Internet
+* [Internet Archive](https://archive.org/) Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
+* [Censys](https://search.censys.io/) Censys is the proven leader in Attack Surface Management by relentlessly searching and proactively monitoring your digital footprint far more broadly and deeply than ever thought possible.
+* [Stanford Internet Research Data Repository](https://scans.io/) The Stanford Internet Research Data Repository is a public archive of research datasets that describe the hosts, services, and websites on the Internet.
 
 ### Image processing
 * [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html)
