@@ -204,6 +204,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [NOPIMS – Open petroleum geoscience data from Western Australia made available by the Australian Government](https://nopims.dmp.wa.gov.au/nopims/)
 * [UK National Data Repository – Open petroleum geoscience data from the UK Government (free registration required)](https://ndr.ogauthority.co.uk/dp/controller/PLEASE_LOGIN_PAGE)
 * [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada](https://ags.aer.ca/publications/SPE_006.html)
+* [SMARD - Live data from the German electricity market data platform](https://gcmb.io/stefan/smard)
 
 ### Finance
 * [Blockmodo Coin Registry - A registry of JSON formatted information files](https://github.com/Blockmodo/coin_registry)
