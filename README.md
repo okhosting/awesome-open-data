@@ -357,6 +357,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Saskatchewan, Province of Canada](http://opendatask.ca/data/)
 * [Seattle](https://data.seattle.gov/)
 * [Singapore Government Data](https://data.gov.sg/)
+* [Taiwan.md](https://taiwan.md) - Open-source knowledge base about Taiwan with 400+ structured articles, bilingual (zh/en), API, and knowledge graph. CC BY-SA 4.0. ([GitHub](https://github.com/frank890417/taiwan-md))
+* [Taiwan Open Data](https://data.gov.tw/) - Taiwan Government open data portal
 * [Scotland - The National Library of Scotland](https://www.nls.uk/about-us/open-data)
 * [South Africa Trade Statistics](http://www.econostatistics.co.za/)
 * [South Africa](http://www.statssa.gov.za/)
