@@ -166,6 +166,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Long-Term Productivity Database - The Long-Term Productivity database was](http://longtermproductivity.com/download.html)
 * [OpenCorporates Database of Companies in the World](https://opencorporates.com/)
 * [Our World in Data](http://ourworldindata.org/)
+* [Statistics of the World](https://statisticsoftheworld.com/) - 440+ economic indicators for 218 countries from IMF, World Bank, WHO, FRED, and UN. Free API.
 * [SciencesPo World Trade Gravity Datasets](http://econ.sciences-po.fr/thierry-mayer/data)
 * [The Atlas of Economic Complexity](http://atlas.cid.harvard.edu)
 * [The Center for International Data](http://cid.econ.ucdavis.edu)
