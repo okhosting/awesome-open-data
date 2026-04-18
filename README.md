@@ -217,6 +217,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [OANDA](http://www.oanda.com/)
 * [OSU Financial data](http://fisher.osu.edu/fin/fdf/osudata.htm)
 * [Quandl](https://www.quandl.com/)
+* [FXMacroData](https://fxmacrodata.com/) - FX-focused macroeconomic API and MCP server covering announcements, release calendars, forex, COT, commodities, and bond yields across 18 currencies.
 * [St Louis Federal](https://research.stlouisfed.org/fred2/)
 * [Yahoo Finance](http://finance.yahoo.com/)
 
