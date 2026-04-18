@@ -341,6 +341,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Palo Alto, California, US](http://data.cityofpaloalto.org/home)
 * [Philadelphia, US - OpenDataPhilly is a catalog of open data in the](https://www.opendataphilly.org/)
 * [Portland, Oregon](https://www.portlandoregon.gov/28130)
+* [Poland - Polish Public Tenders Dataset (BZP + TED) — ~1.4M public procurement notices from the Polish national procurement bulletin and the EU-wide TED database, with anonymized natural-person contractors. Parquet + CSV, CC BY 4.0, CITATION.cff included.](https://github.com/atlasprzetargow/polish-tenders-dataset)
 * [Portugal - Pordata organization](http://www.pordata.pt/en/Home)
 * [Puerto Rico Government](https://data.pr.gov//)
 * [Quebec City, QC, Canada](http://donnees.ville.quebec.qc.ca/)
