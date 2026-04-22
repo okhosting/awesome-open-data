@@ -268,6 +268,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Belgium](http://data.gov.be/)
 * [Boston, US](https://data.boston.gov/)
 * [Brazil](http://dados.gov.br/dataset)
+* [Brazil - Crime Brasil](https://crimebrasil.com.br) - Brazilian crime statistics consolidated from state police sources, geocoded by neighborhood (RS) and municipality (MG, RJ) plus national PRF/DATASUS data. Free API, CC BY 4.0.
 * [Buenos Aires, Argentina](http://data.buenosaires.gob.ar/)
 * [Calgary, AB, Canada](https://data.calgary.ca/)
 * [Cambridge, MA, US](https://data.cambridgema.gov/)
