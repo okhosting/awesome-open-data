@@ -424,6 +424,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [World Stress Map – A global compilation of information on the crustal present-day stress field](http://www.world-stress-map.org/)
 * [openFDA - a research project to provide open APIs, raw data downloads, documentation and examples, and a developer community for an important collection of FDA public datasets](https://github.com/FDA/openfda)
 * [Kushy Cannabis Dataset - a collection of tabular data from different sectors of the industry, from strains to products to lab results](https://github.com/kushyapp/cannabis-dataset)
+* [Longevity World Cup public athlete data - biological-age biomarkers, athlete profiles, crowd-age guesses, proof links, and leaderboard placement data from an open-source longevity sport platform](https://longevityworldcup.com/api/data/athletes)
 * [Substance Abuse and Mental Health Services Administration](https://www.samhsa.gov/data/)
 * [HealthData.gov](https://healthdata.gov/)
 * [WHO - Global Health Observatory data repository](https://apps.who.int/gho/data/node.home)
