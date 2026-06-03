@@ -835,6 +835,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 ### eSports
 * [OpenDota data dump](https://blog.opendota.com/2017/03/24/datadump2/)
+* [State of Browser Games 2026](https://pixelgameshub.com/research/state-of-browser-games-2026) - Browser game industry metrics, downloadable as CSV under CC-BY-4.0
 
 ### Complementary Collections
 * [Data Packaged Core Datasets](https://github.com/datasets/)
