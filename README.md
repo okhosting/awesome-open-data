@@ -416,6 +416,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Number of Ebola Cases and Deaths in Affected Countries (2014)](https://data.humdata.org/dataset/ebola-cases-2014)
 * [Open-ODS (structure of the UK NHS)](http://www.openods.co.uk)
 * [OpenPaymentsData, Healthcare financial relationship data](https://openpaymentsdata.cms.gov)
+* [Romanian Medical Waste Procurement Dataset](https://github.com/licitatiimedicale/data) - 487+ contract award notices for hazardous medical waste services (CPV 9052*) in Romania, 2019-2026. CC BY 4.0.
 * [PhysioBank Databases - A large and growing archive of physiological data.](https://www.physionet.org/physiobank/database/)
 * [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net)
 * [The Cancer Genome Atlas project (TCGA)](https://portal.gdc.cancer.gov/)
