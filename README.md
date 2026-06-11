@@ -166,6 +166,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Long-Term Productivity Database - The Long-Term Productivity database was](http://longtermproductivity.com/download.html)
 * [OpenCorporates Database of Companies in the World](https://opencorporates.com/)
 * [OpenMercantil](https://openmercantil.es/descargas) - Independent Spanish mercantile public-data platform with company search, BORME event timelines, downloadable datasets and API documentation. Not an official registry service.
+* [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Hand-verified open dataset mapping which Applicant Tracking System each of 743 large employers (Fortune 500, Global 2000, $1B+ private) uses. Raw CSV + typed npm package, MIT.
 * [Our World in Data](http://ourworldindata.org/)
 * [Statistics of the World](https://statisticsoftheworld.com/) - 440+ economic indicators for 218 countries from IMF, World Bank, WHO, FRED, and UN. Free API.
 * [SciencesPo World Trade Gravity Datasets](http://econ.sciences-po.fr/thierry-mayer/data)
