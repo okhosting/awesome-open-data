@@ -183,6 +183,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [New York State Education Department Data - The New York State Education](https://data.nysed.gov/downloads.php)
 * [Student Data from Free Code Camp](https://github.com/freeCodeCamp/open-data)
 * [Stanford Open Data Portal](https://opendata.stanforddaily.com/#/)
+* [BrightKey University & International School Ratings](https://brightkey.co/en/rankings/dataset) - Independent CC-BY-4.0 dataset rating ~299 universities and ~184 international schools across six dimensions (also on Hugging Face, Kaggle, Zenodo).
 
 ### Energy
 * [AMPds - The Almanac of Minutely Power dataset](http://ampds.org/)
