@@ -432,6 +432,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [HealthData.gov](https://healthdata.gov/)
 * [WHO - Global Health Observatory data repository](https://apps.who.int/gho/data/node.home)
 * [UNICEF](https://data.unicef.org/)
+* [Verified Supplement Evidence Database](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement data: dosing, bioavailability, drug-nutrient interactions, and cost-per-effective-dose product comparisons. Every claim carries a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 
 ### Internet
 * [Internet Archive](https://archive.org/) Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
