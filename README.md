@@ -73,6 +73,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UEA Climatic Research Unit](http://www.cru.uea.ac.uk/data)
 * [WU Historical Weather Worldwide](https://www.wunderground.com/history/index.html)
 * [WorldClim - Global Climate Data](http://www.worldclim.org)
+* [US County AirData 5-Year Emission Trends - facility-reported air emission change for 994 US counties (EPA AirData 2020-2024, CC BY 4.0)](https://doi.org/10.5281/zenodo.20382474)
 
 ### Complex networks
 * [AMiner Citation Network Dataset](http://aminer.org/citation)
