@@ -185,6 +185,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Student Data from Free Code Camp](https://github.com/freeCodeCamp/open-data)
 * [Stanford Open Data Portal](https://opendata.stanforddaily.com/#/)
 * [BrightKey University & International School Ratings](https://brightkey.co/en/rankings/dataset) - Independent CC-BY-4.0 dataset rating ~299 universities and ~184 international schools across six dimensions (also on Hugging Face, Kaggle, Zenodo).
+* [College ROI Dataset](https://github.com/thomasthinks/college-roi-data) - Lifetime ROI estimates for ~29,700 US bachelor's programs across ~3,392 colleges (FREOPP/IPEDS/BEA), 5 CSVs, CC BY 4.0 (also on Hugging Face, Kaggle, and Zenodo, DOI 10.5281/zenodo.21351603).
 
 ### Energy
 * [AMPds - The Almanac of Minutely Power dataset](http://ampds.org/)
