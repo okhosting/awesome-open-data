@@ -221,6 +221,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * NYSE Market Data ftp://ftp.nyxdata.com/
 * [OANDA](http://www.oanda.com/)
 * [OSU Financial data](http://fisher.osu.edu/fin/fdf/osudata.htm)
+* [Planomy US Tax and Retirement Data - 2026 US federal income tax brackets, standard deductions, 401(k)/IRA/HSA/FSA contribution limits, IRA phase-outs, Social Security COLA and wage base, Medicare premiums and IRMAA tiers, and RMD ages as JSON. Every figure cited to its IRS, SSA or CMS source](https://planomy.net/data/?utm_source=awesome-open-data&utm_medium=oss-listing&utm_campaign=open-data)
 * [Quandl](https://www.quandl.com/)
 * [St Louis Federal](https://research.stlouisfed.org/fred2/)
 * [Yahoo Finance](http://finance.yahoo.com/)
