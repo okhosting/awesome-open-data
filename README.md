@@ -790,6 +790,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Commit messages - 1.3 billion GitHub commit messages till March 2019](https://github.com/src-d/datasets/blob/master/CommitMessages)
 * [Pull Request review comments - 25.3 million GitHub PR review comments](https://github.com/src-d/datasets/blob/master/ReviewComments)
 * [Source Code Identifiers - 41.7 million distinct splittable identifiers](https://github.com/src-d/datasets/tree/master/Identifiers)
+* [Open Dependency Risk - 1,500 widely-used npm and PyPI packages ranked by downloads, enriched daily with registry metadata and OSV.dev vulnerability data](https://github.com/ConorsCode/open-dependency-risk)
 
 ### Sports
 * [American Ninja Warrior Obstacles - Contains every obstacle in the history](https://data.world/ninja/anw-obstacle-history)
