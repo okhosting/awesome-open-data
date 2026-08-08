@@ -156,11 +156,12 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 ### Economics
 * [American Economic Association (AEA)](https://www.aeaweb.org/resources/data)
+* [Company Registry Atlas - 761 official company, tax, customs and permit registries from 173 countries, with a machine-checked note on how each one can be read](https://github.com/aunikolskii-bit/company-registry-atlas)
+* [DBnomics – the world's economic database - Aggregates hundreds of](https://db.nomics.world/)
 * [EconData from UMD](http://inforumweb.umd.edu/econdata/econdata.html)
 * [Economic Freedom of the World Data](http://www.freetheworld.com/datasets_efw.html)
 * [Historical MacroEconomic Statistics](http://www.historicalstatistics.org/)
 * [INFORUM - Interindustry Forecasting at the University of Maryland](http://inforumweb.umd.edu/)
-* [DBnomics – the world's economic database - Aggregates hundreds of](https://db.nomics.world/)
 * [International Trade Statistics](http://www.econostatistics.co.za/)
 * [Internet Product Code Database](http://www.upcdatabase.com/)
 * [Joint External Debt Data Hub](http://www.jedh.org/)
@@ -168,17 +169,17 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Long-Term Productivity Database - The Long-Term Productivity database was](http://longtermproductivity.com/download.html)
 * [OpenCorporates Database of Companies in the World](https://opencorporates.com/)
 * [OpenMercantil](https://openmercantil.es/descargas) - Independent Spanish mercantile public-data platform with company search, BORME event timelines, downloadable datasets and API documentation. Not an official registry service.
-* [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Hand-verified open dataset mapping which Applicant Tracking System each of 743 large employers (Fortune 500, Global 2000, $1B+ private) uses. Raw CSV + typed npm package, MIT.
 * [Our World in Data](http://ourworldindata.org/)
-* [Statistics of the World](https://statisticsoftheworld.com/) - 440+ economic indicators for 218 countries from IMF, World Bank, WHO, FRED, and UN. Free API.
 * [SciencesPo World Trade Gravity Datasets](http://econ.sciences-po.fr/thierry-mayer/data)
+* [SIMBAD Astronomical Database - provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system](http://simbad.u-strasbg.fr/simbad/)
+* [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Hand-verified open dataset mapping which Applicant Tracking System each of 743 large employers (Fortune 500, Global 2000, $1B+ private) uses. Raw CSV + typed npm package, MIT.
+* [Statistics of the World](https://statisticsoftheworld.com/) - 440+ economic indicators for 218 countries from IMF, World Bank, WHO, FRED, and UN. Free API.
 * [The Atlas of Economic Complexity](http://atlas.cid.harvard.edu)
 * [The Center for International Data](http://cid.econ.ucdavis.edu)
 * [The Observatory of Economic Complexity](http://atlas.media.mit.edu/en/)
+* [The Yelp dataset - a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes.](https://www.yelp.com/dataset)
 * [UN Commodity Trade Statistics](http://comtrade.un.org/db/)
 * [UN Human Development Reports](http://hdr.undp.org/en)
-* [SIMBAD Astronomical Database - provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system](http://simbad.u-strasbg.fr/simbad/)
-* [The Yelp dataset - a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes.](https://www.yelp.com/dataset)
 
 ### Education
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
