@@ -801,6 +801,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Football/Soccer resources (data and APIs)](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
 * [Lahman's Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/)
 * [Padel Snipe - open atlas of 4,000+ padel clubs across 9 European countries with GPS and courts (API)](https://padelsnipe.com/fr/world/api)
+* [Philippines PCSO Historical Draw Results (2022–2026) - Independently compiled 13,457-row snapshot across nine digit and jackpot games, with row-level provenance, CSV downloads, a data dictionary, reproducible validation notes, and CC BY 4.0 licensing. Not an official PCSO database.](https://remo65588-boop.github.io/lottolens-ph-public-data/)
 * [Pinhooker: Thoroughbred Bloodstock Sale Data](https://github.com/phillc73/pinhooker)
 * [Pro Kabadi season 1 to 7 - Pro Kabadi League is a professional-level](https://github.com/ranganadhkodali/Pro-Kabadi-season-1-7-Stats)
 * [Retrosheet Baseball Statistics](http://www.retrosheet.org/game.htm)
