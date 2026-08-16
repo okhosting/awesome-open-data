@@ -157,6 +157,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 ### Economics
 * [American Economic Association (AEA)](https://www.aeaweb.org/resources/data)
 * [Company Registry Atlas - 761 official company, tax, customs and permit registries from 173 countries, with a machine-checked note on how each one can be read](https://github.com/aunikolskii-bit/company-registry-atlas)
+* [Lender Questionnaire - 14,181 registered community associations in Hawaii, Nevada, Texas and Virginia, and the management company of record who answers a lender questionnaire for the 9,824 whose state register names one, built from each state's own public register with the source and read date on every page, downloadable as CSV](https://lenderquestionnaire.com)
 * [DBnomics – the world's economic database - Aggregates hundreds of](https://db.nomics.world/)
 * [EconData from UMD](http://inforumweb.umd.edu/econdata/econdata.html)
 * [Economic Freedom of the World Data](http://www.freetheworld.com/datasets_efw.html)
