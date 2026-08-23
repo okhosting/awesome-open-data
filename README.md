@@ -4,6 +4,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 ### Agriculture
 * [Hyperspectral benchmark dataset on soil moisture](https://doi.org/10.5281/zenodo.1227837)
+* [UniTools World Recipes - 501 dishes from 127 countries with per-serving nutrition, JSON and CSV, CC BY-SA 4.0](https://theunitools.com/en/data)
 * [U.S. Department of Agriculture's Nutrient Database](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
 * [U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS](http://www.plants.usda.gov/dl_all.html)
 
