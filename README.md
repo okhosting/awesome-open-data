@@ -191,6 +191,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Stanford Open Data Portal](https://opendata.stanforddaily.com/#/)
 * [BrightKey University & International School Ratings](https://brightkey.co/en/rankings/dataset) - Independent CC-BY-4.0 dataset rating ~299 universities and ~184 international schools across six dimensions (also on Hugging Face, Kaggle, Zenodo).
 * [College ROI Dataset](https://github.com/thomasthinks/college-roi-data) - Lifetime ROI estimates for ~30K US bachelor's programs across 1,775 institutions (FREOPP/IPEDS/BEA), 5 CSVs, CC BY 4.0 (also on Hugging Face, Kaggle, and Zenodo, DOI 10.5281/zenodo.21351603).
+* [lumi-open-data - TOEIC Raw-to-Scaled Score Approximation](https://github.com/alice51849/lumi-open-data/tree/master/toeic-score-conversion) - 101 Listening and 101 Reading rows covering 0-100 raw correct answers, plus a 21-point anchor curve. Unofficial approximation for practice-test estimation only: ETS equates each official TOEIC form and publishes no universal raw-to-scaled table, so this is a transparent linear-interpolation curve, not an official conversion. JSON, CC BY 4.0, Zenodo DOI 10.5281/zenodo.22100995.
 
 ### Energy
 * [AMPds - The Almanac of Minutely Power dataset](http://ampds.org/)
@@ -671,6 +672,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UFO Reports](http://www.nuforc.org/webreports.html)
 * [Wikileaks 911 pager intercepts](https://911.wikileaks.org/files/index.html)
 * [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php)
+* [lumi-open-data](https://doi.org/10.5281/zenodo.22100995) - Four small, source-linked reference datasets as machine-readable JSON: passport/ID photo specifications (a 28-country selection, not a worldwide listing), a TOEIC raw-to-scaled approximation (unofficial, practice use only), the Chinese sexagenary cycle for 1924-2044 (121 rows), and film stocks (25 entries). Every file carries a version, a license and an important_note stating its limitations, with per-row source_url values. CC BY 4.0.
 
 ### Search engines and repositories
 * [Shodan - the world's first search engine for Internet-connected devices.](https://www.shodan.io/)
