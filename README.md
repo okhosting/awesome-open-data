@@ -672,7 +672,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UFO Reports](http://www.nuforc.org/webreports.html)
 * [Wikileaks 911 pager intercepts](https://911.wikileaks.org/files/index.html)
 * [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php)
-* [lumi-open-data](https://doi.org/10.5281/zenodo.22100995) - Four small, source-linked reference datasets as machine-readable JSON: passport/ID photo specifications (a 28-country selection, not a worldwide listing), a TOEIC raw-to-scaled approximation (unofficial, practice use only), the Chinese sexagenary cycle for 1924-2044 (121 rows), and film stocks (25 entries). Every file carries a version, a license and an important_note stating its limitations, with per-row source_url values. CC BY 4.0.
+* [lumi-open-data](https://doi.org/10.5281/zenodo.22100995) - Four small, source-linked reference datasets as machine-readable JSON: passport/ID photo specifications (a selection of countries, not a worldwide listing), a TOEIC raw-to-scaled approximation (unofficial, practice use only), the Chinese sexagenary cycle for 1924-2044 (121 rows), and film stocks (25 entries). Every file carries a version, a license and an important_note stating its limitations, with per-row source_url values. CC BY 4.0.
 
 ### Search engines and repositories
 * [Shodan - the world's first search engine for Internet-connected devices.](https://www.shodan.io/)
