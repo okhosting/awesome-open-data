@@ -841,6 +841,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [OpenFlights - airport, airline and route data](http://openflights.org/data.html)
 * [Philadelphia Bike Share Stations (JSON)](https://www.rideindego.com/stations/json/)
 * [Plane Crash Database, since 1920](http://www.planecrashinfo.com/database.htm)
+* [PlaneCrashData](https://www.planecrashdata.com/) - Historical aviation accident and incident database (1919–present) with aircraft specs, airline records, geospatial coordinates, and cause classifications.
 * [RITA Airline On-Time Performance data](http://www.transtats.bts.gov/Tables.asp?DB_ID=120)
 * [RITA/BTS transport data collection (TranStat)](http://www.transtats.bts.gov/DataIndex.asp)
 * [Renfe (Spanish National Railway Network) dataset <data.renfe.com)
