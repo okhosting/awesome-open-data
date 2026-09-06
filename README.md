@@ -230,6 +230,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [OANDA](http://www.oanda.com/)
 * [OSU Financial data](http://fisher.osu.edu/fin/fdf/osudata.htm)
 * [Quandl](https://www.quandl.com/)
+* [S&P 500 Earnings Announcement Times](https://github.com/quant500trading/sp500-earnings-announcement-times) - 63,969 earnings announcements from 808 S&P 500 companies, 2003-04-25 to 2026-09-01, with the time of day, built from SEC EDGAR Form 8-K item 2.02 filings. 16 columns; every row carries its accession number and a direct link to sec.gov, so any line can be checked at source. The cover-page date is typed by the filer, so 3,569 rows are flagged date_uncertain, and the EDGAR stamp is an upper bound on the release. CSV, CC0 1.0, no account and no API key
 * [St Louis Federal](https://research.stlouisfed.org/fred2/)
 * [Yahoo Finance](http://finance.yahoo.com/)
 
