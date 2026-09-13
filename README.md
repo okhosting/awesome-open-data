@@ -415,6 +415,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Waterloo, CA - Datasets powering the Open Data API](https://github.com/uWaterloo/Datasets)
 
 ### Healthcare
+* [ES·pera — Spain NHS waiting lists, December 2025](https://es-pera.org/interanual/2025-12/datos.csv) - National and regional official Spanish NHS waiting-list indicators, normalised with explicit source, period and reporting-perimeter metadata. [Spanish Ministry of Health reuse terms](https://www.sanidad.gob.es/avisoLegal/home.htm).
 * [AWS COVID-19 Datasets - We're working with organizations who make](https://dj2taa9i652rf.cloudfront.net/)
 * [2019 Novel Coronavirus COVID-19 Data Repository by Johns Hopkins CSSE -](https://github.com/CSSEGISandData/COVID-19)
 * [Coronavirus (Covid-19) Data in the United States - The New York Times is](https://github.com/nytimes/covid-19-data)
