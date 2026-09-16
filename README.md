@@ -450,6 +450,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Internet Archive](https://archive.org/) Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
 * [Censys](https://search.censys.io/) Censys is the proven leader in Attack Surface Management by relentlessly searching and proactively monitoring your digital footprint far more broadly and deeply than ever thought possible.
 * [Stanford Internet Research Data Repository](https://scans.io/) The Stanford Internet Research Data Repository is a public archive of research datasets that describe the hosts, services, and websites on the Internet.
+* [StackScan TLD and Country Website Lists](https://www.stackscan.com/websites) Registered domain and active website counts for 430 TLDs, plus the most popular websites, technologies and companies for 186 countries, from a crawl of 399M+ websites.
 
 ### Image processing
 * [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html)
