@@ -233,6 +233,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Quandl](https://www.quandl.com/)
 * [S&P 500 Earnings Announcement Times](https://github.com/quant500trading/sp500-earnings-announcement-times) - 63,969 earnings announcements from 808 S&P 500 companies, 2003-04-25 to 2026-09-01, with the time of day, built from SEC EDGAR Form 8-K item 2.02 filings. 16 columns; every row carries its accession number and a direct link to sec.gov, so any line can be checked at source. The cover-page date is typed by the filer, so 3,569 rows are flagged date_uncertain, and the EDGAR stamp is an upper bound on the release. CSV, CC0 1.0, no account and no API key
 * [St Louis Federal](https://research.stlouisfed.org/fred2/)
+* [US Online Card Fees 2026 (Payney)](https://payney.com/reports/online-card-fees-us-2026-09/) - "Published US online card-processing fees for Stripe, PayPal, Braintree, Square, Shopify Payments, Authorize.net, Paddle, Lemon Squeezy, Helcim and Adyen as of September 2026, with effective-cost calculations from $10 to $500 and refund and dispute terms; every row cites the processor's own pricing page. CSV and JSON, CC BY 4.0, no account required."
 * [Yahoo Finance](http://finance.yahoo.com/)
 
 ### GIS
