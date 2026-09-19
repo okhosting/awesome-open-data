@@ -678,6 +678,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Wikileaks 911 pager intercepts](https://911.wikileaks.org/files/index.html)
 * [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php)
 * [lumi-open-data](https://doi.org/10.5281/zenodo.22100995) - Four small, source-linked reference datasets as machine-readable JSON: passport/ID photo specifications (a selection of countries, not a worldwide listing), a TOEIC raw-to-scaled approximation (unofficial, practice use only), the Chinese sexagenary cycle for 1924-2044 (121 rows), and film stocks (25 entries). Every file carries a version, a license and an important_note stating its limitations, with per-row source_url values. CC BY 4.0.
+* [eBay Sold Comps](https://github.com/silentdirectivellc-hub/ebay-sold-comps) - 570 completed eBay sales across 9 collectible categories (Pyrex, cast iron, sterling, Fiesta, Le Creuset, Hot Wheels, CorningWare, sewing machines, retro games) as plain CSV: title, sold price, end date, condition, search keyword and the item id so any row can be re-opened on eBay. CC0, with a METHOD.md that states the sampling window and what was dropped and why.
 
 ### Search engines and repositories
 * [Shodan - the world's first search engine for Internet-connected devices.](https://www.shodan.io/)
