@@ -816,8 +816,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Pinhooker: Thoroughbred Bloodstock Sale Data](https://github.com/phillc73/pinhooker)
 * [Pro Kabadi season 1 to 7 - Pro Kabadi League is a professional-level](https://github.com/ranganadhkodali/Pro-Kabadi-season-1-7-Stats)
 * [Retrosheet Baseball Statistics](http://www.retrosheet.org/game.htm)
-* [Tennis database of rankings, results, and stats for ATP](https://github.com/JeffSackmann/tennis_atp)
-* [Tennis database of rankings, results, and stats for WTA](https://github.com/JeffSackmann/tennis_wta)
+* [Live Tennis API Match Outcome Studies - comeback, hold and tiebreak rates counted from 116,382 completed ATP, WTA, Challenger and ITF matches, CC BY 4.0 (JSON)](https://livetennisapi.com/open-tennis-data)
 * [StatsBomb Open Data - Free football data](https://github.com/statsbomb/open-data)
 
 ### TimeSeries
