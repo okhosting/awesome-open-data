@@ -832,6 +832,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Airlines OD Data 1987-2008](http://stat-computing.org/dataexpo/2009/the-data.html)
 * [DJI Drone Specs and Used Listed Price Index](https://reboot-hub.com/pages/reboot-hub-data) - Open Q3 2026 model-level price ranges with downloadable CSV/JSON data, schemas, a reproducible notebook, and CC BY 4.0 licensing.
 * [US Vehicle Reliability - NHTSA owner complaints & recalls, MY 2005-2026 (CC BY 4.0)](https://huggingface.co/ProblemsByVin)
+* [ANKUSI Wheel Fitment Dataset](https://github.com/david025445/ankusi-wheel-fitment-data) - Factory wheel bolt pattern, centre bore, lug count and OE wheel size for 7,603 vehicle variants across 130 makes, model years 1940-2027. CSV + JSON, CC BY 4.0.
 * [Ford GoBike Data (formerly Bay Area Bike Share Data)](https://www.fordgobike.com/system-data)
 * [Bike Share Systems (BSS) collection](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems)
 * [Dutch Traffic Information](https://www.ndw.nu/en/)
