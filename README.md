@@ -452,6 +452,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Censys](https://search.censys.io/) Censys is the proven leader in Attack Surface Management by relentlessly searching and proactively monitoring your digital footprint far more broadly and deeply than ever thought possible.
 * [Stanford Internet Research Data Repository](https://scans.io/) The Stanford Internet Research Data Repository is a public archive of research datasets that describe the hosts, services, and websites on the Internet.
 * [StackScan TLD and Country Website Lists](https://www.stackscan.com/websites) Registered domain and active website counts for 430 TLDs, plus the most popular websites, technologies and companies for 186 countries, from a crawl of 399M+ websites.
+* [Domain Renewal Prices](https://namesale.store/renewal-prices) First-year vs yearly renewal list prices for 530 top-level domains from one registrar's public pricing API, as a searchable table and a CSV download (CC BY 4.0).
 
 ### Image processing
 * [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html)
