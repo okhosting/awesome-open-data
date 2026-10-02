@@ -806,6 +806,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Source Code Identifiers - 41.7 million distinct splittable identifiers](https://github.com/src-d/datasets/tree/master/Identifiers)
 * [Open Dependency Risk - 1,500 widely-used npm and PyPI packages ranked by downloads, enriched daily with registry metadata and OSV.dev vulnerability data](https://github.com/ConorsCode/open-dependency-risk)
 * [Orca AI Incident Archive](https://github.com/Continuum-AI-Corp/Orca-AI-Incident-Archive) - 379 real-world AI agent security events from 2025-01 on (incidents, vulnerabilities, research, threat reports, policy), each source-linked, graded for source quality and labelled for confirmed harm. JSON + CSV exports, JSON-Schema validated, CC BY 4.0.
+* [The Deploy Log](https://deployedbyai.com/log/) - 1,000+ AI deployments (models, APIs, tools, robotics) from 2025-09 on, each linked to the publisher's own page. JSON + CSV exports, CC BY 4.0.
 
 ### Sports
 * [American Ninja Warrior Obstacles - Contains every obstacle in the history](https://data.world/ninja/anw-obstacle-history)
