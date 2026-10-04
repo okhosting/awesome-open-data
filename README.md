@@ -384,6 +384,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Spain](https://datos.gob.es/)
 * [State of Utah, US](https://opendata.utah.gov/)
 * [Switzerland](http://www.opendata.admin.ch/)
+* [Switzerland - VivaMap quality-of-life scores by canton and agglomeration (CSV, CC BY-SA 4.0)](https://vivamap.ch/en/methodology/)
 * [Taiwan gov](https://data.gov.tw/)
 * [Taiwan - awesome-opendata-taiwan-gov](https://github.com/onlinemad/awesome-opendata-taiwan-gov)
 * [Tel-Aviv Open Data](https://opendata.tel-aviv.gov.il/en/Pages/home.aspx)
