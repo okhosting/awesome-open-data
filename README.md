@@ -824,6 +824,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Retrosheet Baseball Statistics](http://www.retrosheet.org/game.htm)
 * [Live Tennis API Match Outcome Studies - comeback, hold and tiebreak rates counted from 116,382 completed ATP, WTA, Challenger and ITF matches, CC BY 4.0 (JSON)](https://livetennisapi.com/open-tennis-data)
 * [StatsBomb Open Data - Free football data](https://github.com/statsbomb/open-data)
+* [Superior Tips Settled Football Predictions - one row per published selection with kickoff, league, clubs, market, pick, the price at publication, the model probability and the graded 90 minute result, losses included; 51,546 rows across 629 competitions since September 2025, appended nightly with a seven day lag, CSV, CC BY 4.0](https://github.com/st0jka/superior-tips-predictions-dataset)
 
 ### TimeSeries
 * [3W dataset - To the best of its authors' knowledge, this is the first](https://github.com/ricardovvargas/3w_dataset)
