@@ -569,6 +569,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Personae Corpus](http://www.clips.uantwerpen.be/datasets/personae-corpus)
 * [SMS Spam Collection in English](http://www.dt.fee.unicamp.br/~tiago/smsspamcollection/)
 * [SaudiNewsNet Collection of Saudi Newspaper Articles (Arabic, 30K articles)](https://github.com/ParallelMazen/SaudiNewsNet)
+* [SlashYear Sourced Historical Events - dated events quoted verbatim from cited Wikipedia revisions, NDJSON dump and JSON API, CC BY-SA 4.0](https://slashyear.com/data)
 * [Stanford Question Answering Dataset (SQuAD)](https://rajpurkar.github.io/SQuAD-explorer/)
 * [USENET postings corpus of 2005~2011](http://www.psych.ualberta.ca/~westburylab/downloads/usenetcorpus.download.html)
 * [Universal Dependencies](http://universaldependencies.org)
