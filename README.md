@@ -195,6 +195,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Stanford Open Data Portal](https://opendata.stanforddaily.com/#/)
 * [BrightKey University & International School Ratings](https://brightkey.co/en/rankings/dataset) - Independent CC-BY-4.0 dataset rating ~299 universities and ~184 international schools across six dimensions (also on Hugging Face, Kaggle, Zenodo).
 * [College ROI Dataset](https://github.com/thomasthinks/college-roi-data) - Lifetime ROI estimates for ~30K US bachelor's programs across 1,775 institutions (FREOPP/IPEDS/BEA), 5 CSVs, CC BY 4.0 (also on Hugging Face, Kaggle, and Zenodo, DOI 10.5281/zenodo.21351603).
+* [EducatorPathways U.S. Teacher Shortage Areas](https://educatorpathways.com/teacher-shortage-tracker) - Federally designated teacher shortage areas by U.S. jurisdiction (CSV extract + README; Zenodo DOI 10.5281/zenodo.22868172).
 * [lumi-open-data - TOEIC Raw-to-Scaled Score Approximation](https://github.com/alice51849/lumi-open-data/tree/master/toeic-score-conversion) - 101 Listening and 101 Reading rows covering 0-100 raw correct answers, plus a 21-point anchor curve. Unofficial approximation for practice-test estimation only: ETS equates each official TOEIC form and publishes no universal raw-to-scaled table, so this is a transparent linear-interpolation curve, not an official conversion. JSON, CC BY 4.0, Zenodo DOI 10.5281/zenodo.22100995.
 
 ### Energy
