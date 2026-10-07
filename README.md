@@ -183,6 +183,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [The Atlas of Economic Complexity](http://atlas.cid.harvard.edu)
 * [The Center for International Data](http://cid.econ.ucdavis.edu)
 * [The Observatory of Economic Complexity](http://atlas.media.mit.edu/en/)
+* [Tyllus U.S. Import Evidence Change Radar](https://www.tyllus.com/en/resources/us-import-evidence-change-radar) - A rolling, non-exhaustive selection of U.S. import-related Federal Register notices with document IDs, publication dates, agencies, official source links and evidence-domain tags. Downloadable JSON and CSV require no sign-up; Tyllus Terms of Use apply.
 * [The Yelp dataset - a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes.](https://www.yelp.com/dataset)
 * [UN Commodity Trade Statistics](http://comtrade.un.org/db/)
 * [UN Human Development Reports](http://hdr.undp.org/en)
