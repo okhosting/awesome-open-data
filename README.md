@@ -896,10 +896,10 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Open Datasets](https://pathmind.com/wiki/open-datasets)
 * [Top 10 Open Dataset Resources on Github](https://www.kdnuggets.com/2016/05/top-10-datasets-github.html)
 * [Shadowbroker: Track everything from the corporate/private jets of the wealthy, and spy satellites, to seismic events in one unified interface.](https://github.com/BigBodyCobain/Shadowbroker)
-## Contributions welcome
-If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
-
 
 ## Climate & Weather
 
 - [ENSO Historical Dataset](https://github.com/dayu2333-jinyul/enso-historical-data) — Comprehensive monthly ENSO data (1950–2026), 126 records with ONI, SOI, and subsurface temperature anomalies. CSV + JSON, CC0.
+
+## Contributions welcome
+If you wish to contribute to this list, just fork, make your changes and send me a pull request, I'll be happy to review all of your suggestions :)
