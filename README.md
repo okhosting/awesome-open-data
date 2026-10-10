@@ -187,6 +187,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [The Yelp dataset - a subset of our businesses, reviews, and user data for use in personal, educational, and academic purposes.](https://www.yelp.com/dataset)
 * [UN Commodity Trade Statistics](http://comtrade.un.org/db/)
 * [UN Human Development Reports](http://hdr.undp.org/en)
+* [x402 Price Index](https://github.com/tanod-labs/x402-price-index) - Listed per-call prices of paid HTTP APIs that accept x402 (HTTP 402 stablecoin) payments, from the public CDP Bazaar and PayAI discovery listings: 34,062 listings on 2,158 hosts, medians for 30 API categories with offer and host counts, history CSVs, CC BY 4.0
 
 ### Education
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
