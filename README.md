@@ -558,7 +558,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Google Web 5gram (1TB, 2006)](https://catalog.ldc.upenn.edu/LDC2006T13)
 * [Gutenberg eBooks List](http://www.gutenberg.org/wiki/Gutenberg:Offline_Catalogs)
 * [Hansards text chunks of Canadian Parliament](http://www.isi.edu/natural-language/download/hansard/)
-* [Job-Hunting Interview Corpus (Japanese) - 1,873 interview questions and 56 ordered selection flows across 472 companies, collected from 600 public Japanese career articles; JSON + JSON-LD, derived tables CC BY 4.0](https://part676392.github.io/dsh-money-engine/interview-questions.html)
+* [Job-Hunting Interview Corpus (Japanese)](https://part676392.github.io/dsh-money-engine/?src=pr57) - 1,779 interview questions and 56 ordered selection flows across 472 companies, from 600 public Japanese career-interview write-ups; JSON/CSV with per-row source URLs; CC BY 4.0 on derived tables only
 * [LJ Speech - Speech dataset consisting of 13,100 short audio clips of a](https://keithito.com/LJ-Speech-Dataset)
 * [M-AILabs Speech - The M-AILABS Speech Dataset is the first large dataset](http://www.m-ailabs.bayern/en/the-mailabs-speech-dataset/)
 * [Microsoft MAchine Reading COmprehension Dataset (or MS MARCO)](http://www.msmarco.org/dataset.aspx)
