@@ -509,6 +509,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [AP Archive](https://www.ap.org/content/archive) Relive iconic headlines that have shaped our world
 
 ### Machine learning
+* [AI Video Model Free-Tier Observations](https://videofreetier.com/data/) - 117 dated observations of what twelve AI video models grant on their free tiers, one row per figure, each carrying the channel it was observed on, the date it was observed, and whether the source was a vendor statement or a report. CSV, JSON and Markdown, direct download without sign-up, CC BY 4.0, Zenodo DOI.
 * [All-Age-Faces Dataset - Contains 13'322 Asian face images distributed](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
 * [Context-aware data sets from five domains](https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets)
 * [Delve Datasets for classification and regression](http://www.cs.toronto.edu/~delve/data/datasets.html)
