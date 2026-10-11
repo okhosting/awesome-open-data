@@ -875,6 +875,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [OpenDota data dump](https://blog.opendota.com/2017/03/24/datadump2/)
 * [State of Browser Games 2026](https://pixelgameshub.com/research/state-of-browser-games-2026) - Browser game industry metrics, downloadable as CSV under CC-BY-4.0
 * [BottleneckPC PC Hardware Dataset](https://bottleneckpc.com/data) - Specs and gaming-performance scores for 300+ CPUs and 140+ GPUs, JSON download, CC-BY-4.0
+* [Planet Zoo 2 launch dataset](https://github.com/odebo/planet-zoo-2-dataset) - 130 launch species for the zoo management sim Planet Zoo 2 (biome, enclosure type, barrier grade, taxonomy, conservation status, size) plus a 1,221-pair habitat-compatibility matrix derived from the publisher's own Zoopedia payload. JSON + CSV downloads, citable DOI, CC BY 4.0.
 
 ### Complementary Collections
 * [Data Packaged Core Datasets](https://github.com/datasets/)
