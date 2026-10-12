@@ -708,6 +708,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Dryad - a curated resource that makes research data discoverable, freely reusable, and citable. Dryad provides a general-purpose home for a wide diversity of data types](https://datadryad.org/search)
 * [OSF - OSF is a free, open platform to support your research and enable collaboration](https://osf.io/)
 * [Statcrunch - Access tens of thousands of datasets, perform complex analyses, and generate compelling reports](https://www.statcrunch.com/datasets/shared)
+* [StatOrigin - free, open database of industry statistics for 32 industries; every number links back to its publisher, report and quoted sentence](https://statorigin.org/)
 * [TensorFlow Datasets - a collection of ready-to-use datasets](https://www.tensorflow.org/datasets)
 * [Mendeley](https://data.mendeley.com/)
 * [Google dataset research](https://datasetsearch.research.google.com/)
