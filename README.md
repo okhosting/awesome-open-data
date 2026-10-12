@@ -169,7 +169,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Historical MacroEconomic Statistics](http://www.historicalstatistics.org/)
 * [INFORUM - Interindustry Forecasting at the University of Maryland](http://inforumweb.umd.edu/)
 * [International Trade Statistics](http://www.econostatistics.co.za/)
-* [Invokely](https://invokely.ai/docs) - REST API for harmonized official statistics across U.S. states and counties, EU countries and regions, Spain down to municipalities, and World Bank data for every country and the world. Each figure includes a source citation; the [free plan](https://invokely.ai/pricing) includes 500 calls per month, and reuse terms vary by source publisher.
+* [Invokely](https://invokely.ai/docs) - MCP server for harmonized official statistics across U.S. states and counties, EU countries and regions, Spain down to municipalities, and every country plus the world via the World Bank. Figures include their period and source citation. The no-card Free plan includes 500 MCP calls/month. REST data endpoints require Builder, Pro or prepaid credits; the REST catalog and CSV export endpoints are available on every plan with an API key. Full series history and CSV, Excel and chart exports are available on all plans; reuse terms vary by publisher.
 * [Internet Product Code Database](http://www.upcdatabase.com/)
 * [Joint External Debt Data Hub](http://www.jedh.org/)
 * [Jon Haveman International Trade Data Links](http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html)
