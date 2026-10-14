@@ -179,6 +179,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Our World in Data](http://ourworldindata.org/)
 * [SciencesPo World Trade Gravity Datasets](http://econ.sciences-po.fr/thierry-mayer/data)
 * [SIMBAD Astronomical Database - provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system](http://simbad.u-strasbg.fr/simbad/)
+* [Startup Hiring Dataset](https://github.com/benkrasin/startup-hiring-data) - Point-in-time snapshot (2026-10-14) of 32,510 open roles at 390 venture-backed companies, normalized from the official public Greenhouse, Lever and Ashby job-board APIs (title, department, location, remote flag, posted salary range, apply URL). Free 100-row sample CSV and a free written report; the full CSV is paid ($19).
 * [State of ATS 2026](https://github.com/Kayvan-Zahiri/state-of-ats-2026) - Hand-verified open dataset mapping which Applicant Tracking System each of 743 large employers (Fortune 500, Global 2000, $1B+ private) uses. Raw CSV + typed npm package, MIT.
 * [Statistics of the World](https://statisticsoftheworld.com/) - 440+ economic indicators for 218 countries from IMF, World Bank, WHO, FRED, and UN. Free API.
 * [The Atlas of Economic Complexity](http://atlas.cid.harvard.edu)
