@@ -421,6 +421,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Vienna, Austria](https://open.wien.gv.at/site/open-data/)
 * [U.S. Congressional Research Service (CRS) Reports](https://www.everycrsreport.com/)
 * [Waterloo, CA - Datasets powering the Open Data API](https://github.com/uWaterloo/Datasets)
+* [US Traffic Ticket Courts and Payment Portals](https://github.com/odebo/us-traffic-ticket-data) - Which court or agency handles a traffic citation in 54 US cities across 21 states, each with the court's own official payment or contest portal (no third-party payment sites), fine notes, traffic-school eligibility and points rules. JSON + CSV, CC0.
 
 ### Healthcare
 * [AWS COVID-19 Datasets - We're working with organizations who make](https://dj2taa9i652rf.cloudfront.net/)
