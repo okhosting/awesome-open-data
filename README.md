@@ -822,6 +822,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 ### Sports
 * [American Ninja Warrior Obstacles - Contains every obstacle in the history](https://data.world/ninja/anw-obstacle-history)
 * [Betfair Historical Exchange Data](http://data.betfair.com/)
+* [BJJGraph - Brazilian jiu-jitsu as a directed state machine: 133 positions and 1,315 techniques with authored gi and no-gi attempt and outcome probabilities on every edge, one JSON file](https://github.com/diogoseca/bjjgraph)
 * [Cricsheet Matches (cricket)](http://cricsheet.org/)
 * [Ergast Formula 1, from 1950 up to date (API)](http://ergast.com/mrd/db)
 * [Football/Soccer resources (data and APIs)](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
