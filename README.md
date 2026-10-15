@@ -455,6 +455,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UNICEF](https://data.unicef.org/)
 * [Verified Supplement Evidence Database](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement data: dosing, bioavailability, drug-nutrient interactions, and cost-per-effective-dose product comparisons. Every claim carries a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 * [Lifemap](https://lifemap.org.uk) - Life expectancy and healthy life expectancy for every UK council from the Office for National Statistics, with confidence intervals and trends. CSV and JSON, Open Government Licence v3.0.
+* [US healthcare job postings and posted pay (CareJobs.Now)](https://doi.org/10.5281/zenodo.23395728)
 
 ### Internet
 * [Internet Archive](https://archive.org/) Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
