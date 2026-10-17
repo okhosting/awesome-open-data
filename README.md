@@ -708,6 +708,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [National Technical Reports Library](https://ntrl.ntis.gov/NTRL/)
 * [Open Data Certificates (beta)](https://certificates.theodi.org/en/datasets)
 * [OpenDataNetwork - A search engine of all Socrata powered data portals](http://www.opendatanetwork.com/)
+* [GovAPI Atlas - searchable index of the APIs and web services listed on ten national open data portals (Korea, Japan, US, France, Germany, UK, Taiwan, Canada, Australia, Singapore), re-read weekly](https://govapiatlas.com/)
 * [Statista.com - statistics and Studies](http://www.statista.com/)
 * [Zenodo - An open dependable home for the long-tail of science](https://zenodo.org/collection/datasets)
 * [Dryad - a curated resource that makes research data discoverable, freely reusable, and citable. Dryad provides a general-purpose home for a wide diversity of data types](https://datadryad.org/search)
