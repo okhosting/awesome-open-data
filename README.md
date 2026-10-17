@@ -190,6 +190,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UN Commodity Trade Statistics](http://comtrade.un.org/db/)
 * [UN Human Development Reports](http://hdr.undp.org/en)
 * [x402 Price Index](https://github.com/tanod-labs/x402-price-index) - Listed per-call prices of paid HTTP APIs that accept x402 (HTTP 402 stablecoin) payments, from the public CDP Bazaar and PayAI discovery listings: 34,062 listings on 2,158 hosts, medians for 30 API categories with offer and host counts, history CSVs, CC BY 4.0
+* [AI Tools Pricing & Free Tier Limits (Ask More / AMPM-AIOPS) - cheapest paid plan (USD/month), free-tier limits and commercial-use terms for 100+ AI tools (the list keeps growing), every row with its official source URL and last-verified date; CC BY-SA 4.0, JSON/CSV exported daily](https://github.com/AMPM-AIOPS-HQ/awesome-ai-tools-pricing)
 
 ### Education
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
