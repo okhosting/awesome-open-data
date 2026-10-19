@@ -168,6 +168,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Economic Freedom of the World Data](http://www.freetheworld.com/datasets_efw.html)
 * [Historical MacroEconomic Statistics](http://www.historicalstatistics.org/)
 * [INFORUM - Interindustry Forecasting at the University of Maryland](http://inforumweb.umd.edu/)
+* [Independent Store Coupon Discounts](https://doi.org/10.5281/zenodo.23464382) - Aggregate coupon discount statistics for independent online stores by category, plus a Black Friday discount study (CC BY 4.0).
 * [International Trade Statistics](http://www.econostatistics.co.za/)
 * [Invokely](https://invokely.ai/docs) - MCP server for harmonized official statistics across U.S. states and counties, EU countries and regions, Spain down to municipalities, and every country plus the world via the World Bank. Figures include their period and source citation. The no-card Free plan includes 500 MCP calls/month. REST data endpoints require Builder, Pro or prepaid credits; the REST catalog and CSV export endpoints are available on every plan with an API key. Full series history and CSV, Excel and chart exports are available on all plans; reuse terms vary by publisher.
 * [Internet Product Code Database](http://www.upcdatabase.com/)
