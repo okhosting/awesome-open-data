@@ -389,6 +389,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [South Africa Trade Statistics](http://www.econostatistics.co.za/)
 * [South Africa](http://www.statssa.gov.za/)
 * [Spain](https://datos.gob.es/)
+* [Spain - SubvencionesBDNS: subvenciones concedidas por las administraciones públicas españolas (BDNS), buscables por empresa, NIF, órgano y comunidad](https://subvencionesbdns.com/) - Datos de la Base de Datos Nacional de Subvenciones actualizados a diario, con el sector derivado del título de la convocatoria y enlace al boletín oficial de cada concesión. También hay un cliente en Python ([bdns-client](https://github.com/pedrosorrentino/bdns-client)) para descargarla.
 * [State of Utah, US](https://opendata.utah.gov/)
 * [Switzerland](http://www.opendata.admin.ch/)
 * [Switzerland - VivaMap quality-of-life scores by canton and agglomeration (CSV, CC BY-SA 4.0)](https://vivamap.ch/en/methodology/)
