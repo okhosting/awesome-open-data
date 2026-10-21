@@ -426,6 +426,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Waterloo, CA - Datasets powering the Open Data API](https://github.com/uWaterloo/Datasets)
 * [US Traffic Ticket Courts and Payment Portals](https://github.com/odebo/us-traffic-ticket-data) - Which court or agency handles a traffic citation in 54 US cities across 21 states, each with the court's own official payment or contest portal (no third-party payment sites), fine notes, traffic-school eligibility and points rules. JSON + CSV, CC0.
 * [US Visa Bulletin Cutoff Dates (YiminShuju)](https://yiminshuju.com/paiqi.json) - Monthly U.S. State Department Visa Bulletin cutoff dates since 2023-01: 15 employment and family categories, Final Action and Dates for Filing, India / China / rest of world, with month-over-month change. JSON with open CORS, `?month=YYYY-MM` for past bulletins; also on GitHub at xjokerabab/visa-bulletin-cn. CC BY 4.0.
+* [US Liquor License Applications (new restaurants and bars)](https://github.com/Tintin-Intellegence-Limited/us-liquor-license-applications) - Restaurants and bars that filed for a liquor license in the last 30 days in New York City, Los Angeles and five Texas metros, from TABC, NY State Liquor Authority and California ABC records (~175 rows: filing date, metro, city, trade name, street, venue type). Chains, hotels and liquor stores filtered out. CSV, refreshed weekly, CC BY 4.0.
 
 ### Healthcare
 * [AWS COVID-19 Datasets - We're working with organizations who make](https://dj2taa9i652rf.cloudfront.net/)
