@@ -443,7 +443,6 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Medicare Coverage Database (MCD), U.S.](https://www.cms.gov/medicare-coverage-database/)
 * [Medicare Data Engine of medicare.gov Data](https://data.medicare.gov/)
 * [Medicare Data File](http://go.cms.gov/19xxPN4)
-* [MRIPrices](https://mriprices.fyi/developers) - Cash-pay MRI prices at US hospitals, read from the price files hospitals must publish (45 CFR 180). Covers 5,419 hospitals; roster from CMS public-domain data. Free JSON API, no key.
 * [Number of Ebola Cases and Deaths in Affected Countries (2014)](https://data.humdata.org/dataset/ebola-cases-2014)
 * [Open-ODS (structure of the UK NHS)](http://www.openods.co.uk)
 * [OpenPaymentsData, Healthcare financial relationship data](https://openpaymentsdata.cms.gov)
