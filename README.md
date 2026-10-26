@@ -333,6 +333,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Istanbul Municipality Open Data Portal](https://data.ibb.gov.tr)
 * [Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati](https://www.dati.gov.it/)
 * [Italy - Awesome Italian Public Datasets](https://github.com/italia/awesome-italian-public-datasets)
+* [ITINAgents](https://itinagents.fyi/developers) - Directory of 9,838 IRS ITIN acceptance agents, built from the IRS acceptance agent program (public domain). Free JSON API, no key.
 * [Japan](http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do)
 * [Awesome Open Data Latam - Lista con informacion sobre datasets, organizaciones, eventos y herramientas relacionadas con Open Data en Latinoamerica](https://github.com/ChristosChristofidis/awesome-opendata-latam)
 * [Laval, QC, Canada](http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx)
@@ -442,6 +443,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Medicare Coverage Database (MCD), U.S.](https://www.cms.gov/medicare-coverage-database/)
 * [Medicare Data Engine of medicare.gov Data](https://data.medicare.gov/)
 * [Medicare Data File](http://go.cms.gov/19xxPN4)
+* [MRIPrices](https://mriprices.fyi/developers) - Cash-pay MRI prices at US hospitals, read from the price files hospitals must publish (45 CFR 180). Covers 5,419 hospitals; roster from CMS public-domain data. Free JSON API, no key.
 * [Number of Ebola Cases and Deaths in Affected Countries (2014)](https://data.humdata.org/dataset/ebola-cases-2014)
 * [Open-ODS (structure of the UK NHS)](http://www.openods.co.uk)
 * [OpenPaymentsData, Healthcare financial relationship data](https://openpaymentsdata.cms.gov)
@@ -520,6 +522,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [AP Archive](https://www.ap.org/content/archive) Relive iconic headlines that have shaped our world
 
 ### Machine learning
+* [AI Benchmark Index](https://aibenchmarkindex.com/developers) - 270 AI benchmarks with traceable data, licences and scores, each tied to its primary source (CC0-1.0). Free JSON API, no key.
 * [AI Video Model Free-Tier Observations](https://videofreetier.com/data/) - 117 dated observations of what twelve AI video models grant on their free tiers, one row per figure, each carrying the channel it was observed on, the date it was observed, and whether the source was a vendor statement or a report. CSV, JSON and Markdown, direct download without sign-up, CC BY 4.0, Zenodo DOI.
 * [All-Age-Faces Dataset - Contains 13'322 Asian face images distributed](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
 * [Context-aware data sets from five domains](https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets)
