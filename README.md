@@ -178,6 +178,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [OpenCorporates Database of Companies in the World](https://opencorporates.com/)
 * [OpenMercantil](https://openmercantil.es/descargas) - Independent Spanish mercantile public-data platform with company search, BORME event timelines, downloadable datasets and API documentation. Not an official registry service.
 * [Our World in Data](http://ourworldindata.org/)
+* [Scento Fragrance Index](https://github.com/Scento-com/fragrance-index) - Shares, ranks and indices of what Europe buys in perfume decants (October 2025 to September 2026): top perfumes and houses overall and by country, gender style, niche vs designer, size mix, price tiers and quarterly trends; CSV and JSON, CC BY 4.0, no counts published.
 * [SciencesPo World Trade Gravity Datasets](http://econ.sciences-po.fr/thierry-mayer/data)
 * [SIMBAD Astronomical Database - provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system](http://simbad.u-strasbg.fr/simbad/)
 * [Startup Hiring Dataset](https://github.com/benkrasin/startup-hiring-data) - Point-in-time snapshot (2026-10-14) of 32,510 open roles at 390 venture-backed companies, normalized from the official public Greenhouse, Lever and Ashby job-board APIs (title, department, location, remote flag, posted salary range, apply URL). Free 100-row sample CSV and a free written report; the full CSV is paid ($19).
