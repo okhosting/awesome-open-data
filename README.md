@@ -618,6 +618,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Study Forrest](http://studyforrest.org)
 
 ### Physics
+* [AgentFEM Controlled Transient Heat](https://huggingface.co/datasets/HaomingLuo/AgentFEM-Controlled-Transient-Heat) - 192 synthetic finite-element heat-conduction trajectories in 64 matched scenarios, with temperature fields, source controls, virtual sensors and scenario-grouped splits. HDF5 data, runnable comparison example, CC BY 4.0.
 * [CERN Open Data Portal](http://opendata.cern.ch/)
 * [Crystallography Open Database](http://www.crystallography.net/)
 * [IceCube - South Pole Neutrino Observatory](http://icecube.wisc.edu/science/data)
