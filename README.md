@@ -167,6 +167,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Resale IQ Secondhand Price Index](https://resaleiq.dev/data/secondhand-price-index) - monthly median asking prices and observed departures (a proxy for demand, not confirmed sales) for tracked fashion brands and categories on Vinted in France, Germany, Spain, Italy and Portugal, with sample size per cell (minimum 30). Aggregates only, CSV on GitHub, CC BY 4.0.
 * [EconData from UMD](http://inforumweb.umd.edu/econdata/econdata.html)
 * [Economic Freedom of the World Data](http://www.freetheworld.com/datasets_efw.html)
+* [Hong Kong Corporate & Statutory Compliance Open Datasets (86hc.com)](https://www.86hc.com/en/) - Daily-updated Hong Kong Companies Registry (Cap. 622) & Business Registration (BRN, Cap. 310) search over 3.94M+ entities, 67-year incorporation cohorts (1960–2026), commercial building corporate density rankings, 32 statutory regulatory licensing registries ([/tc/regulator](https://www.86hc.com/tc/regulator)), and [CC-BY 4.0 CSV/JSON datasets](https://github.com/86hc-compliance/hk-statutory-compliance-datasets).
 * [Historical MacroEconomic Statistics](http://www.historicalstatistics.org/)
 * [INFORUM - Interindustry Forecasting at the University of Maryland](http://inforumweb.umd.edu/)
 * [International Trade Statistics](http://www.econostatistics.co.za/)
