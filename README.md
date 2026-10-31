@@ -204,6 +204,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [College ROI Dataset](https://github.com/thomasthinks/college-roi-data) - Lifetime ROI estimates for ~30K US bachelor's programs across 1,775 institutions (FREOPP/IPEDS/BEA), 5 CSVs, CC BY 4.0 (also on Hugging Face, Kaggle, and Zenodo, DOI 10.5281/zenodo.21351603).
 * [EducatorPathways U.S. Teacher Shortage Areas](https://educatorpathways.com/teacher-shortage-tracker) - Federally designated teacher shortage areas by U.S. jurisdiction (CSV extract + README; Zenodo DOI 10.5281/zenodo.22868172).
 * [lumi-open-data - TOEIC Raw-to-Scaled Score Approximation](https://github.com/alice51849/lumi-open-data/tree/master/toeic-score-conversion) - 101 Listening and 101 Reading rows covering 0-100 raw correct answers, plus a 21-point anchor curve. Unofficial approximation for practice-test estimation only: ETS equates each official TOEIC form and publishes no universal raw-to-scaled table, so this is a transparent linear-interpolation curve, not an official conversion. JSON, CC BY 4.0, Zenodo DOI 10.5281/zenodo.22100995.
+* [AI Certifications Dataset](https://aicoursecheck.com/data/) - JSON records of AI certifications: issuer-stated prices, exam format, validity, eligibility and source URLs, with null for facts an issuer doesn't state. CC BY 4.0.
 
 ### Energy
 * [AMPds - The Almanac of Minutely Power dataset](http://ampds.org/)
