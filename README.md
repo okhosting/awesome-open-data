@@ -155,6 +155,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [DATA.NASA.GOV is NASA's clearinghouse site for open-data provided to the public](https://nasa.github.io/data-nasa-gov-frontpage/)
 * [Geopedia](http://portal.geopedia.world/data)
 * [OpenWaterAtlas Spot–Climate–Species–Routes Dataset](https://doi.org/10.5281/zenodo.20668393) - 2,928 dive/surf/kite/freedive spots joined to 5-year daily climate aggregates, 112,548 OBIS + GBIF marine species occurrences, NOAA Coral Reef Watch coral-bleaching (Degree Heating Weeks) status, and the OpenFlights direct-route graph. CC-BY 4.0; Zenodo DOI, mirrored on Kaggle and Hugging Face.
+* [Lake Level - MCP server for live US lake and reservoir levels (USGS, USACE, CDEC, Reclamation, TWDB)](https://github.com/theluckystrike/lake-level-mcp) - 44 lakes in 12 states; current elevation, change over 24 hours, 7 days and 30 days, feet below full pool, and history up to 365 days. No API key; every result cites the source gauge URL.
 
 ### Economics
 * [American Economic Association (AEA)](https://www.aeaweb.org/resources/data)
