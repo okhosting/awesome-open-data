@@ -270,6 +270,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Natural Earth - vectors and rasters of the world](http://www.naturalearthdata.com/)
 * [OpenAddresses](http://openaddresses.io/)
 * [OpenStreetMap (OSM)](http://wiki.openstreetmap.org/wiki/Downloading_data)
+* [PostalCodes.info Global Postal & Centroid Open Data](https://postalcodes.info/datasets) - Global 249-country postal code directory with WGS84 coordinates, free CC0 country CSV samples, [Free Tier REST API](https://postalcodes.info/docs), and [Cross-Border Radius Calculator](https://postalcodes.info/postal-code-radius-calculator).
 * [Pleiades - Gazetteer and graph of ancient places](http://pleiades.stoa.org/)
 * [Reverse Geocoder using OSM data](https://github.com/kno10/reversegeocode)
 * [Robin Wilson - Free GIS Datasets](http://freegisdata.rtwilson.com)
