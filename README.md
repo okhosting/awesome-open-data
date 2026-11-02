@@ -232,6 +232,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Athabasca Oil Sands Well Dataset McMurray/Wabiskaw – Well logs and stratigraphic picks for 2193 wells, including 750 with lithofacies, from Alberta, Canada](https://ags.aer.ca/publications/SPE_006.html)
 * [SMARD - Live data from the German electricity market data platform](https://gcmb.io/stefan/smard)
 * [Canadian Home Energy Rebate Programs (RebateHub.ca) - federal, provincial, utility and municipal programs with status, deadlines and official sources, CSV and JSON, CC BY 4.0](https://rebatehub.ca/data)
+* [DC Hub US Grid Infrastructure Extracts - free CSV extracts of US substations, 69 kV+ transmission lines and natural-gas pipelines (HIFLD Open baseline plus OpenStreetMap), ODbL 1.0, no key or signup](https://dchub.cloud/api/v1/odbl/manifest.json)
 
 ### Finance
 * [Blockmodo Coin Registry - A registry of JSON formatted information files](https://github.com/Blockmodo/coin_registry)
