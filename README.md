@@ -630,6 +630,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [NASA Exoplanet Archive](http://exoplanetarchive.ipac.caltech.edu/)
 * [NSSDC (NASA) data of 550 space spacecraft](http://nssdc.gsfc.nasa.gov/nssdc/obtaining_data.html)
 * [Sloan Digital Sky Survey (SDSS) - Mapping the Universe](http://www.sdss.org/)
+* [Space Mushroom](https://github.com/simulsarker007/open-materials-database) - Open materials database (metals, polymers, ceramics, composites, space materials) with each value shown with its unit, test conditions, method and source. CSV downloads, CC BY 4.0.
 * [ATLAS Open Data provides open access to proton-proton collision data at the LHC](https://atlas.cern/resources/opendata)
 
 ### Prostate cancer
