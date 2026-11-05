@@ -82,6 +82,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [CrossRef DOI URLs](https://archive.org/details/doi-urls)
 * [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)
 * [DIMACS Road Networks Collection](http://www.dis.uniroma1.it/challenge9/download.shtml)
+* [Human Lineage Open Genealogical Dataset](https://doi.org/10.5281/zenodo.23284943) - Genealogical graph of 2.7M deceased historical people with 480k parent-child and 135k couple edges, dated life facts and Wikidata/VIAF/GND identifiers (GEDCOM-X JSON Lines, CC BY-SA 4.0). Browse the full site at https://humanlineage.org
 * [NBER Patent Citations](http://nber.org/patents/)
 * [NIST complex networks data collection](http://math.nist.gov/~RPozo/complex_datasets.html)
 * [Network Repository with Interactive Exploratory Analysis Tools](http://networkrepository.com/)
