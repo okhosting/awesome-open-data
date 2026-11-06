@@ -328,6 +328,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Germany](https://www-genesis.destatis.de/genesis/online)
 * [Ghent, Belgium](https://data.stad.gent/data)
 * [Glasgow, Scotland, UK](https://data.glasgow.gov.uk/)
+* [Global Law - the law of 208 jurisdictions as git histories, every change a commit dated the day it took effect](https://github.com/lexifina/global-law)
 * [Greece](http://www.data.gov.gr/)
 * [Guardian world governments](http://www.guardian.co.uk/world-government-data)
 * [Halifax, NS, Canada](https://www.halifax.ca/home/open-data)
