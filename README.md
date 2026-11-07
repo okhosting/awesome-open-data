@@ -159,6 +159,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Lake Level - MCP server for live US lake and reservoir levels (USGS, USACE, CDEC, Reclamation, TWDB)](https://github.com/theluckystrike/lake-level-mcp) - 44 lakes in 12 states; current elevation, change over 24 hours, 7 days and 30 days, feet below full pool, and history up to 365 days. No API key; every result cites the source gauge URL.
 
 ### Economics
+* [Datacircle](https://api.datacircle.dev/v1) - Find the best GTM APIs. We benchmark all the GTM APIs and we put the results on our website. Anyone can download the sheet as CSV, JSON or a zip, with no sign-up.
 * [American Economic Association (AEA)](https://www.aeaweb.org/resources/data)
 * [Company Registry Atlas - 761 official company, tax, customs and permit registries from 173 countries, with a machine-checked note on how each one can be read](https://github.com/aunikolskii-bit/company-registry-atlas)
 * [CRHK Guru](https://crhk.guru/data) - Independent Hong Kong company-register platform: search ~3.9M companies in English and Chinese, a permanent page per company, a map of companies by building since 1866, and free downloadable datasets. Not an official registry service.
