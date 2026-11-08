@@ -852,7 +852,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Betfair Historical Exchange Data](http://data.betfair.com/)
 * [BJJGraph - Brazilian jiu-jitsu as a directed state machine: 133 positions and 1,315 techniques with authored gi and no-gi attempt and outcome probabilities on every edge, one JSON file](https://github.com/diogoseca/bjjgraph)
 * [Cricsheet Matches (cricket)](http://cricsheet.org/)
-* [depot.fitness Strength Programs - 101 written-out strength-training programs (5/3/1, 5x5, push/pull/legs and more) as data: sets, reps, rest, length, training days and progression rules, plus 539 exercises; CSV, CC BY 4.0](https://github.com/AlonDrilich/depot-strength-programs)
+* [depot.fitness Strength Programs - 101 written-out strength-training programs (5/3/1, 5x5, push/pull/legs and more) as data: sets, reps, rest, length, training days and progression rules, plus 484 exercises; CSV, CC BY 4.0](https://github.com/AlonDrilich/depot-strength-programs)
 * [Ergast Formula 1, from 1950 up to date (API)](http://ergast.com/mrd/db)
 * [Football/Soccer resources (data and APIs)](http://www.jokecamp.com/blog/guide-to-football-and-soccer-data-and-apis/)
 * [Lahman's Baseball Database](http://www.seanlahman.com/baseball-archive/statistics/)
