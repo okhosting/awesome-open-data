@@ -475,6 +475,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Verified Supplement Evidence Database](https://github.com/erinheit451/verified-supplement-evidence) - Evidence-graded dietary-supplement data: dosing, bioavailability, drug-nutrient interactions, and cost-per-effective-dose product comparisons. Every claim carries a PubMed PMID. CC BY 4.0, DOI 10.57967/hf/9356.
 * [Lifemap](https://lifemap.org.uk) - Life expectancy and healthy life expectancy for every UK council from the Office for National Statistics, with confidence intervals and trends. CSV and JSON, Open Government Licence v3.0.
 * [US healthcare job postings and posted pay (CareJobs.Now)](https://doi.org/10.5281/zenodo.23395728)
+* [US online therapy session prices without insurance (OnlineTherapy.me)](https://doi.org/10.5281/zenodo.23772949) - What one session costs at the 22 US online therapy services that publish a self-pay price, each row with its source page and check date, re-checked monthly. CSV, CC BY 4.0.
 * [vialaudit open data](https://vialaudit.com/data) - Research-peptide certificates of analysis checked against the issuing labs' own records: 1,828 Kovera certificates, 337 mirrored Janoshik reports, FDA warning letters naming retatrutide, and purity and fill by compound. CSV, CC BY 4.0, no login.
 
 ### Internet
