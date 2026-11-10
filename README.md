@@ -243,6 +243,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Global Solo Banking Access Index](https://www.globalsolo.global/data/banking-access-index) - Which of 18 US business-banking providers accept business owners resident in 8 countries (India, China, Brazil, Turkey, Nigeria, Pakistan, UK, Canada): 144 provider-country pairs coded in four states that keep "no published restriction" separate from acceptance, 239 claims each carrying a verbatim provider quote, source URL and access date, re-verified quarterly, CSV/JSON with evidence appendix, CC BY 4.0, DOI 10.5281/zenodo.21336392
 * [Google Finance](https://www.google.com/finance)
 * [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0)
+* [Monero Merchant Index](https://github.com/benwalton34533-cpu/monero-merchant-index) - Daily open dataset of about 1,850 hand-reviewed businesses that accept Monero (XMR) in 100+ countries, with category, country, KYC policy, Tor address and uptime; CSV and JSON, CC BY 4.0, no account required.
 * [NASDAQ](https://data.nasdaq.com/)
 * NYSE Market Data ftp://ftp.nyxdata.com/
 * [OANDA](http://www.oanda.com/)
