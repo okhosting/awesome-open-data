@@ -878,6 +878,8 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UC Riverside Time Series Dataset](http://www.cs.ucr.edu/~eamonn/time_series_data/)
 
 ### Transportation
+* [Headway](https://headway.shivrajsinh.in) - Open public transit schedules, stop departure boards and vehicle frequency analytics for Australia and Phoenix built on official open GTFS data feeds.
+* [Stopwatch](https://transit.shivrajsinh.in) - Open public transportation timetables and stop-level departures covering 120+ transit networks across 6 countries, generated from open GTFS datasets.
 * [Mubboo Airport-to-City-Centre Access Index 2026](https://mubboo.flights/research/airport-city-access-index) - CC BY 4.0 CSV snapshot of public-transport times, fares and taxi information for 60 cities in 39 countries, with a data dictionary and value-level source register. Official published figures collected 26-27 September 2026; times are scheduled or stated, not measured journeys.
 * [Airlines OD Data 1987-2008](http://stat-computing.org/dataexpo/2009/the-data.html)
 * [DJI Drone Specs and Used Listed Price Index](https://reboot-hub.com/pages/reboot-hub-data) - Open Q3 2026 model-level price ranges with downloadable CSV/JSON data, schemas, a reproducible notebook, and CC BY 4.0 licensing.
