@@ -259,6 +259,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Cambridge, MA, US, GIS data on GitHub](http://cambridgegis.github.io/gisdata.html)
 * [Database of all continents, countries, States/Subdivisions/Provinces and](https://www.back4app.com/database/back4app/list-of-all-continents-countries-cities)
 * [Factual Global Location Data](https://places.factual.com/data/t/places)
+* [Flock Locations](https://flocklocations.com/) - a public map of Flock Safety and ALPR camera locations.
 * [IEEE Geoscience and Remote Sensing Society DASE Website](http://dase.grss-ieee.org)
 * [Geo Maps - High Quality GeoJSON maps programmatically generated](https://github.com/simonepri/geo-maps)
 * [Geo Spatial Data from ASU](http://geodacenter.asu.edu/datalist/)
