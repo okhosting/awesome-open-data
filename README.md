@@ -314,6 +314,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Chile](http://datos.gob.cl/dataset)
 * [China](http://data.stats.gov.cn/english/)
 * [Colombia](https://www.datos.gov.co/)
+* [Czech Republic - Czech open data tables](https://github.com/sth3no/czech-open-data) - 35 tables from official Czech open data (RÚIAN territorial register, Czech Statistical Office, company register, schools, healthcare, elections, wages), UTF-8 CSV with every column documented in English and Czech, mostly CC BY 4.0.
 * [Dallas Open Data](https://www.dallasopendata.com/)
 * [DataBC - data from the Province of British Columbia](http://www.data.gov.bc.ca/)
 * [District of Columbia, US](https://opendata.dc.gov/)
