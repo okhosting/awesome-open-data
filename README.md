@@ -182,6 +182,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [OpenCorporates Database of Companies in the World](https://opencorporates.com/)
 * [OpenMercantil](https://openmercantil.es/descargas) - Independent Spanish mercantile public-data platform with company search, BORME event timelines, downloadable datasets and API documentation. Not an official registry service.
 * [Our World in Data](http://ourworldindata.org/)
+* [Pentest Provider Dataset](https://figshare.com/articles/dataset/Pentest_Provider_Dataset/34988044) - Penetration testing provider data with published prices, units, source URLs and check dates. CSV and JSON, MIT.
 * [Scento Fragrance Index](https://github.com/Scento-com/fragrance-index) - Shares, ranks and indices of what Europe buys in perfume decants (October 2025 to September 2026): top perfumes and houses overall and by country, gender style, niche vs designer, size mix, price tiers and quarterly trends; CSV and JSON, CC BY 4.0, no counts published.
 * [SciencesPo World Trade Gravity Datasets](http://econ.sciences-po.fr/thierry-mayer/data)
 * [SIMBAD Astronomical Database - provides basic data, cross-identifications, bibliography and measurements for astronomical objects outside the solar system](http://simbad.u-strasbg.fr/simbad/)
