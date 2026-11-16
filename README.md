@@ -246,6 +246,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Blockmodo Coin Registry - A registry of JSON formatted information files](https://github.com/Blockmodo/coin_registry)
 * [Broker Symbol Finder](https://trepeat.com/symbol-finder) - Table of the names forex and CFD brokers give the same instrument (e.g. XAUUSD, GOLD, XAUUSDm); 24 instruments, 106 names, CC BY 4.0, CSV and JSON download.
 * [CBOE Futures Exchange](http://cfe.cboe.com/market-data/)
+* [ExitValue SMB M&A Multiples](https://github.com/nickcals/multiples) - Median and interquartile EV/EBITDA and EV/Revenue M&A multiples by industry, deal size and deal year (2018-2026) from disclosed transactions, with deal counts per cell; cells under 10 deals are withheld. CSV and JSON, CC BY 4.0, DOI 10.5281/zenodo.20398222, no account required.
 * [Global Solo Banking Access Index](https://www.globalsolo.global/data/banking-access-index) - Which of 18 US business-banking providers accept business owners resident in 8 countries (India, China, Brazil, Turkey, Nigeria, Pakistan, UK, Canada): 144 provider-country pairs coded in four states that keep "no published restriction" separate from acceptance, 239 claims each carrying a verbatim provider quote, source URL and access date, re-verified quarterly, CSV/JSON with evidence appendix, CC BY 4.0, DOI 10.5281/zenodo.21336392
 * [Google Finance](https://www.google.com/finance)
 * [Google Trends](http://www.google.com/trends?q=google&ctab=0&geo=all&date=all&sort=0)
