@@ -715,6 +715,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Microsoft Research Open Data](https://msropendata.com/)
 * [Numbray](http://numbrary.com/)
 * [Open Library Data Dumps](https://openlibrary.org/developers/dumps)
+* [No Stairs Please](https://nostairsplease.com/venues) - Independent live-music venue directory and booking contacts across all 50 US states, DC, and British Columbia
 * [Reddit Datasets](https://www.reddit.com/r/datasets)
 * [RevolutionAnalytics Collection](http://packages.revolutionanalytics.com/datasets/)
 * [Sample R data sets](http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html)
