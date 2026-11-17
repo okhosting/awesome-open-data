@@ -7,6 +7,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UniTools World Recipes - 501 dishes from 127 countries with per-serving nutrition, JSON and CSV, CC BY-SA 4.0](https://theunitools.com/en/data)
 * [U.S. Department of Agriculture's Nutrient Database](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
 * [U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS](http://www.plants.usda.gov/dl_all.html)
+* [Last Frost Date and Hardiness Zone - MCP server for USDA plant hardiness zones by ZIP and frost dates](https://github.com/theluckystrike/last-frost-date-hardiness-zone-mcp) - USDA 2023 hardiness zone by ZIP code, median last spring and first fall frost dates from 30 seasons of Open-Meteo history, frost forecast and planting calendar. No API key; MIT.
 
 ### Biology
 * [1000 Genomes - The 1000 Genomes Project ran between 2008 and 2015,](http://www.1000genomes.org/data)
@@ -262,6 +263,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [St Louis Federal](https://research.stlouisfed.org/fred2/)
 * [US Online Card Fees 2026 (Payney)](https://payney.com/reports/online-card-fees-us-2026-09/) - "Published US online card-processing fees for Stripe, PayPal, Braintree, Square, Shopify Payments, Authorize.net, Paddle, Lemon Squeezy, Helcim and Adyen as of September 2026, with effective-cost calculations from $10 to $500 and refund and dispute terms; every row cites the processor's own pricing page. CSV and JSON, CC BY 4.0, no account required."
 * [Yahoo Finance](http://finance.yahoo.com/)
+* [Prime Rate, SOFR and Fed Funds Rate Today - MCP server for New York Fed reference rates](https://github.com/theluckystrike/prime-rate-sofr-fed-funds-rate-today-mcp) - Fed funds target range and effective rate, prime rate, SOFR and its 30, 90 and 180 day averages, rate history and FOMC rate changes, read at call time from the New York Fed Markets Data API. No API key; MIT.
 
 ### GIS
 * [ArcGIS Open Data portal](http://opendata.arcgis.com/)
@@ -297,6 +299,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Poseidon NW Australia – Interpreted 3D seismic (32bit) including reports and well logs](https://drive.google.com/drive/folders/0B7brcf-eGK8Cbk9ueHA0QUU4Zjg)
 * [Quantarctica – User-configurable QGIS basemap for Antarctica with high-quality, peer-reviewed, free and open Antarctic scientific data](https://www.npolar.no/quantarctica/)
 * [Awesome Open City Data - A curated list of open data sources to analyze and compare cities in a holistic way à la data science and empower citizens](https://github.com/TStesco/awesome-city-data)
+* [Flood Zone Lookup - MCP server for the FEMA National Flood Hazard Layer](https://github.com/theluckystrike/flood-zone-lookup-fema-flood-map-mcp) - FEMA flood zone, Special Flood Hazard Area status, base flood elevation, FIRM panel and LOMRs for any US address (Census geocoder + NFHL), read at call time. No API key; MIT.
 
 ### Government
 * [Global Open Data Index - provides the most comprehensive snapshot available of the state of open government data publication ](https://index.okfn.org/)
@@ -491,6 +494,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [US healthcare job postings and posted pay (CareJobs.Now)](https://doi.org/10.5281/zenodo.23395728)
 * [US online therapy session prices without insurance (OnlineTherapy.me)](https://doi.org/10.5281/zenodo.23772949) - What one session costs at the 22 US online therapy services that publish a self-pay price, each row with its source page and check date, re-checked monthly. CSV, CC BY 4.0.
 * [vialaudit open data](https://vialaudit.com/data) - Research-peptide certificates of analysis checked against the issuing labs' own records: 1,828 Kovera certificates, 337 mirrored Janoshik reports, FDA warning letters naming retatrutide, and purity and fill by compound. CSV, CC BY 4.0, no login.
+* [COVID, Flu and RSV Wastewater Levels - MCP server for CDC NWSS wastewater data](https://github.com/theluckystrike/covid-flu-rsv-wastewater-levels-mcp) - Weekly CDC wastewater viral activity levels for COVID-19, flu and RSV by US state and county, plus ER respiratory illness activity and national test positivity, read at call time from data.cdc.gov. No API key; MIT.
 
 ### Internet
 * [Internet Archive](https://archive.org/) Internet Archive is a non-profit library of millions of free books, movies, software, music, websites, and more.
@@ -925,6 +929,9 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [U.S. Domestic Flights 1990 to 2009](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a)
 * [U.S. Freight Analysis Framework since 2007](http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm)
 * [U.S. National Highway Traffic Safety Administration - Fatalities since](ftp://nhtsa.gov/FARS/)
+* [Airport Delays - MCP server for live FAA airport status](https://github.com/theluckystrike/airport-delays-faa-status-mcp) - Ground stops, ground delay programs, arrival and departure delays, closures and deicing at US airports, read at call time from the FAA NAS status feed (nasstatus.faa.gov). No API key; MIT.
+* [Border Wait Times - MCP server for live CBP land border wait times](https://github.com/theluckystrike/border-wait-times-canada-mexico-mcp) - Current waits for cars, SENTRI, NEXUS, Ready Lane, pedestrians and trucks at every US-Mexico and US-Canada land port of entry, read at call time from the CBP Border Wait Times feed. No API key; MIT.
+* [Fuel Economy and Gas Mileage - MCP server for EPA MPG data](https://github.com/theluckystrike/fuel-economy-gas-mileage-mpg-mcp) - EPA city, highway and combined MPG, MPGe, EV range and annual fuel cost by year, make and model, read at call time from the DOE/EPA fueleconomy.gov web services. No API key; MIT.
 
 ### eSports
 * [OpenDota data dump](https://blog.opendota.com/2017/03/24/datadump2/)
