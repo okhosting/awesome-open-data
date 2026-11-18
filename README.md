@@ -851,6 +851,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [UCLA Social Sciences Data Archive](https://dataverse.harvard.edu/dataverse/ssda_ucla)
 * [UN Civil Society Database](http://esango.un.org/civilsociety/)
 * [UPJOHN for Labor Employment Research](http://www.upjohn.org/services/resources/employment-research-data-center)
+* [US Guaranteed Income Pilots (Free Lunch Lab)](https://neteru-nyukin.eltociear.workers.dev/us-pilots.json) - 101 US guaranteed income pilots and programs with city, state, operator, start and end, monthly amount, duration, recipients, eligibility, funder type, control group and main evaluation, each from cited sources, with texts in seven languages. JSON, CC BY 4.0, updated on every build.
 * [Universities Worldwide](http://univ.cc/)
 * [Uppsala Conflict Data Program](http://ucdp.uu.se/)
 * [World Bank Open Data](http://data.worldbank.org/)
