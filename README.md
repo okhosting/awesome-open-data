@@ -555,6 +555,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 ### Machine learning
 * [AI Benchmark Index](https://aibenchmarkindex.com/developers) - 270 AI benchmarks with traceable data, licences and scores, each tied to its primary source (CC0-1.0). Free JSON API, no key.
+* [AI Video & Photo Trend Velocity Dataset](https://github.com/siuserxiaowei/angrydance-chrome-extension/blob/main/dataset/public-trends-2026-11.json) - 72 ranked single-photo AI video, dance-motion and photo-restyle trend clusters distilled from 573 tracked short-form formats with 24h view deltas, active creator counts and momentum scores; direct JSON download without sign-up under CC BY 4.0, browsable in EN/ES/PT/ZH at https://angrydance.com/trends.
 * [AI Video Model Free-Tier Observations](https://videofreetier.com/data/) - 117 dated observations of what twelve AI video models grant on their free tiers, one row per figure, each carrying the channel it was observed on, the date it was observed, and whether the source was a vendor statement or a report. CSV, JSON and Markdown, direct download without sign-up, CC BY 4.0, Zenodo DOI.
 * [All-Age-Faces Dataset - Contains 13'322 Asian face images distributed](https://github.com/JingchunCheng/All-Age-Faces-Dataset)
 * [Context-aware data sets from five domains](https://github.com/irecsys/CARSKit/tree/master/context-aware_data_sets)
