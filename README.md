@@ -205,6 +205,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [AI Video Clip Cost](https://github.com/AZERIA-IT/ai-video-clip-cost) - AI video clip cost dataset: price of a 5 s and 10 s clip per model on Twistavo, CSV/JSON, CC BY 4.0.
 * [PlushSource Manufacturer Dataset](https://github.com/quickman924/plushsource-mcp/tree/main/data) - 55 custom plush (stuffed toy) manufacturers in 14 countries with MOQ, sample and production lead times, OEM/ODM, services and claimed certifications as stated on each maker's own website, with source URLs and a last-checked date per row. CSV and JSON, CC BY 4.0, no sign-up; compiled by the independent directory [PlushSource](https://plushsource.com) and bundled in the open-source plushsource-mcp package.
 * [US Real Estate Photography Prices](https://github.com/October-ai-jpg/listing-photo-data) - Published prices of 154 US real estate photographers in 24 metros by home size, with drone, video, twilight and 3D tour add-ons, each row sourced to the business's own pricing page and dated (November 2026). Same repo: photo rules of 22 US MLSs and 58 listing photo tools compared. CSV/JSON, CC BY 4.0.
+* [Eurostat government spending explorer (ArtiGram)](https://artigram.cafeboon.com/p/smwbry3) - Interactive chart of Eurostat spending data for 30 European countries in 2014, 2019 and 2024: debt interest against defence, education, health and economic affairs, as a share of GDP.
 
 ### Education
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
