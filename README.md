@@ -814,6 +814,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 
 ### Social sciences
 * [ACLED (Armed Conflict Location & Event Data Project)](http://www.acleddata.com/)
+* [Bible Data from Christian Pure](https://github.com/christianpure/bible-data) - Bible places, Bible subjects with verse references, saints' feast days, church comparisons and Easter dates, as CSV, JSON and GeoJSON. CC BY 4.0, Easter dates CC0.
 * [Canadian Legal Information Institute](https://www.canlii.org/en/index.php)
 * [Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc](http://www.systemicpeace.org/)
 * [Correlates of War Project](http://www.correlatesofwar.org/)
