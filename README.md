@@ -939,6 +939,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Airport Delays - MCP server for live FAA airport status](https://github.com/theluckystrike/airport-delays-faa-status-mcp) - Ground stops, ground delay programs, arrival and departure delays, closures and deicing at US airports, read at call time from the FAA NAS status feed (nasstatus.faa.gov). No API key; MIT.
 * [Border Wait Times - MCP server for live CBP land border wait times](https://github.com/theluckystrike/border-wait-times-canada-mexico-mcp) - Current waits for cars, SENTRI, NEXUS, Ready Lane, pedestrians and trucks at every US-Mexico and US-Canada land port of entry, read at call time from the CBP Border Wait Times feed. No API key; MIT.
 * [Fuel Economy and Gas Mileage - MCP server for EPA MPG data](https://github.com/theluckystrike/fuel-economy-gas-mileage-mpg-mcp) - EPA city, highway and combined MPG, MPGe, EV range and annual fuel cost by year, make and model, read at call time from the DOE/EPA fueleconomy.gov web services. No API key; MIT.
+* [Rookiefeed New Trucking Authority Stats](https://rookiefeed.com/new-trucking-authority-stats) - CC BY 4.0 counts of US trucking companies newly granted FMCSA operating authority, by state and day, derived from public FMCSA records.
 
 ### eSports
 * [OpenDota data dump](https://blog.opendota.com/2017/03/24/datadump2/)
