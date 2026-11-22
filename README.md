@@ -895,6 +895,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Live Tennis API Match Outcome Studies - comeback, hold and tiebreak rates counted from 116,382 completed ATP, WTA, Challenger and ITF matches, CC BY 4.0 (JSON)](https://livetennisapi.com/open-tennis-data)
 * [StatsBomb Open Data - Free football data](https://github.com/statsbomb/open-data)
 * [Superior Tips Settled Football Predictions - one row per published selection with kickoff, league, clubs, market, pick, the price at publication, the model probability and the graded 90 minute result, losses included; 51,546 rows across 629 competitions since September 2025, appended nightly with a seven day lag, CSV, CC BY 4.0](https://github.com/st0jka/superior-tips-predictions-dataset)
+* [AsianScore Verifiable Football & NBA xG Prediction Ledger](https://github.com/AIYIXIU/asianscore-xg-ledger-dataset) - Pre-match football and NBA probability predictions locked 8-10 minutes before kickoff with SHA-256 input fingerprints and settled against official final scores via Brier score; CSV/JSON snapshots, CC BY 4.0, Zenodo DOI 10.5281/zenodo.24441036.
 
 ### TimeSeries
 * [3W dataset - To the best of its authors' knowledge, this is the first](https://github.com/ricardovvargas/3w_dataset)
