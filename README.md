@@ -208,6 +208,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [US Real Estate Photography Prices](https://github.com/October-ai-jpg/listing-photo-data) - Published prices of 154 US real estate photographers in 24 metros by home size, with drone, video, twilight and 3D tour add-ons, each row sourced to the business's own pricing page and dated (November 2026). Same repo: photo rules of 22 US MLSs and 58 listing photo tools compared. CSV/JSON, CC BY 4.0.
 * [Eurostat government spending explorer (ArtiGram)](https://artigram.cafeboon.com/p/smwbry3) - Interactive chart of Eurostat spending data for 30 European countries in 2014, 2019 and 2024: debt interest against defence, education, health and economic affairs, as a share of GDP.
 * [Who AI Recommends: Dallas-Fort Worth 2026](https://renownly.org/data/who-ai-recommends-dfw-2026.csv) - CC BY 4.0 CSV of 168 ChatGPT and Google AI searches for local businesses across 12 industries and 14 Dallas-Fort Worth cities, compared with Google Maps ratings and review counts.
+* [Contractor Website Statistics 2026](https://www.advai.cloud/contractor-website-statistics) - CC BY 4.0 CSV of findings from 2,137 US contractor homepages read in October 2026: tap-to-call, forms, online booking, chat, license numbers, local schema and website platform shares, with sample size and source study per figure.
 
 ### Education
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
