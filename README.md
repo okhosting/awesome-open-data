@@ -6,6 +6,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Hyperspectral benchmark dataset on soil moisture](https://doi.org/10.5281/zenodo.1227837)
 * [UniTools World Recipes - 501 dishes from 127 countries with per-serving nutrition, JSON and CSV, CC BY-SA 4.0](https://theunitools.com/en/data)
 * [U.S. Department of Agriculture's Nutrient Database](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)
+* [Japan Food Composition Tables (8th edition, 2023)](https://github.com/w918968-sudo/jp-food-and-prefecture-data) - 2,538 foods x 57 nutrient fields from the MEXT Standard Tables of Food Composition (the 2026 errata applied), plus 47-prefecture population, ageing rate and density as a second CSV; plain CSV, CC BY 4.0, no login.
 * [U.S. Department of Agriculture's PLANTS Database - The Complete PLANTS](http://www.plants.usda.gov/dl_all.html)
 * [Last Frost Date and Hardiness Zone - MCP server for USDA plant hardiness zones by ZIP and frost dates](https://github.com/theluckystrike/last-frost-date-hardiness-zone-mcp) - USDA 2023 hardiness zone by ZIP code, median last spring and first fall frost dates from 30 seasons of Open-Meteo history, frost forecast and planting calendar. No API key; MIT.
 
