@@ -209,6 +209,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [Eurostat government spending explorer (ArtiGram)](https://artigram.cafeboon.com/p/smwbry3) - Interactive chart of Eurostat spending data for 30 European countries in 2014, 2019 and 2024: debt interest against defence, education, health and economic affairs, as a share of GDP.
 * [Who AI Recommends: Dallas-Fort Worth 2026](https://renownly.org/data/who-ai-recommends-dfw-2026.csv) - CC BY 4.0 CSV of 168 ChatGPT and Google AI searches for local businesses across 12 industries and 14 Dallas-Fort Worth cities, compared with Google Maps ratings and review counts.
 * [Contractor Website Statistics 2026](https://www.advai.cloud/contractor-website-statistics) - CC BY 4.0 CSV of findings from 2,137 US contractor homepages read in October 2026: tap-to-call, forms, online booking, chat, license numbers, local schema and website platform shares, with sample size and source study per figure.
+* [SaaS Launch Survival & Web Directory Authority Datasets (2026)](https://github.com/best-directories/saas-launch-datasets-2026) - CC-BY-4.0 tabular CSV datasets (20 files, 8,140 rows) covering 1,889 indie SaaS launches (HTTP/DNS mortality forensics, TLD and DR survival), 1,667 web directories with Ahrefs DR3 vs DR4 scores, a 2,801-domain link-health audit, and 16 cloud vs self-hosting TCO scenarios. Companion directory index on [SaaSCity](https://saascity.io/best-saas-directories).
 
 ### Education
 * [College Scorecard Data](https://collegescorecard.ed.gov/data/)
