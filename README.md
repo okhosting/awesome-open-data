@@ -271,6 +271,7 @@ Lots of entries taken from https://github.com/awesomedata/awesome-public-dataset
 * [US Online Card Fees 2026 (Payney)](https://payney.com/reports/online-card-fees-us-2026-09/) - "Published US online card-processing fees for Stripe, PayPal, Braintree, Square, Shopify Payments, Authorize.net, Paddle, Lemon Squeezy, Helcim and Adyen as of September 2026, with effective-cost calculations from $10 to $500 and refund and dispute terms; every row cites the processor's own pricing page. CSV and JSON, CC BY 4.0, no account required."
 * [Yahoo Finance](http://finance.yahoo.com/)
 * [Prime Rate, SOFR and Fed Funds Rate Today - MCP server for New York Fed reference rates](https://github.com/theluckystrike/prime-rate-sofr-fed-funds-rate-today-mcp) - Fed funds target range and effective rate, prime rate, SOFR and its 30, 90 and 180 day averages, rate history and FOMC rate changes, read at call time from the New York Fed Markets Data API. No API key; MIT.
+* [US Congress Trading Data](https://github.com/johnisanerd/Apify-Congressional-Trading-Data-Scraper) - US House and Senate STOCK Act periodic transaction reports as JSON, with member, ticker, amount range, and transaction and filing dates; filter by member first or last name, date range, stock symbol and max results. Runs as an Apify Actor (MIT source); needs an Apify account and is billed per result.
 
 ### GIS
 * [ArcGIS Open Data portal](http://opendata.arcgis.com/)
